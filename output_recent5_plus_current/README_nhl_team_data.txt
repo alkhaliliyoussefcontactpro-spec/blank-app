@@ -1,7 +1,7 @@
 DONNÉES NHL — NIVEAU DE JEU DES ÉQUIPES
 ============================================
 
-Date de génération (UTC) : 2026-11-15T08:57:22.442510+00:00
+Date de génération (UTC) : 2026-11-15T09:14:55.584610+00:00
 Période : saisons 2021-22 à 2025-26, plus 2026-27 en cours.
 Matchs réguliers dans l’archive : 6,845
 Nouveaux matchs terminés ajoutés : 40
