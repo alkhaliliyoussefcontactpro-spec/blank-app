@@ -1,0 +1,51 @@
+name: Actualiser les données NHL
+
+on:
+  schedule:
+    # 12:17 UTC chaque jour (13:17 en hiver, 14:17 en été à Paris).
+    - cron: "17 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualiser-donnees-nhl
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v7
+
+      - name: Préparer Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Actualiser les données NHL
+        run: python refresh_nhl_data.py --workers 8
+
+      - name: Enregistrer les CSV mis à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f nhl_current_team_form.csv nhl_team_game_stats.csv
+          git add -f output_recent5_plus_current/nhl_team_game_stats.csv
+          git add -f output_recent5_plus_current/nhl_team_form_prematch_5_10_15.csv
+          git add -f output_recent5_plus_current/nhl_coverage_by_season.csv
+          if [ -f output_recent5_plus_current/nhl_failed_game_ids.csv ]; then
+            git add -f output_recent5_plus_current/nhl_failed_game_ids.csv
+          fi
+
+          if git diff --cached --quiet; then
+            echo "Aucune nouvelle donnée NHL à enregistrer."
+          else
+            git commit -m "Actualisation quotidienne des données NHL"
+            git push
+          fi

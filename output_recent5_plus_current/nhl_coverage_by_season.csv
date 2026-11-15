@@ -1,0 +1,7 @@
+season,games_in_dataset,games_pbp_ok,games_legacy_scores_only,games_pbp_sog_match,games_pbp_sog_mismatch,games_five_v_five_complete,team_rows_with_sog_api_comparison,team_rows_sog_match_api,team_rows_sog_mismatch_api
+2021,1312,1312,0,1292,20,1312,2624,2604,20
+2022,1312,1312,0,1291,21,1312,2624,2603,21
+2023,1312,1312,0,1298,14,1312,2624,2610,14
+2024,1312,1312,0,1288,24,1312,2624,2600,24
+2025,1312,1312,0,1282,30,1312,2624,2594,30
+2026,325,325,0,321,4,325,650,646,4
