@@ -28,19 +28,34 @@ jobs:
           python-version: "3.12"
 
       - name: Actualiser les données NHL
+        id: form
+        continue-on-error: true
         run: python refresh_nhl_data.py --workers 8
 
-      - name: Enregistrer les CSV mis à jour
+      - name: Actualiser la saison NHL EDGE en cours
+        id: edge
+        continue-on-error: true
+        run: python collect_nhl_edge_teams.py --workers 4
+
+      - name: Enregistrer les données mises à jour
+        env:
+          FORM_RESULT: ${{ steps.form.outcome }}
+          EDGE_RESULT: ${{ steps.edge.outcome }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -f nhl_current_team_form.csv nhl_team_game_stats.csv
-          git add -f output_recent5_plus_current/nhl_team_game_stats.csv
-          git add -f output_recent5_plus_current/nhl_team_form_prematch_5_10_15.csv
-          git add -f output_recent5_plus_current/nhl_coverage_by_season.csv
-          if [ -f output_recent5_plus_current/nhl_failed_game_ids.csv ]; then
-            git add -f output_recent5_plus_current/nhl_failed_game_ids.csv
+          if [ "$FORM_RESULT" = success ]; then
+            git add -f nhl_current_team_form.csv nhl_team_game_stats.csv
+            git add -f output_recent5_plus_current/nhl_team_game_stats.csv
+            git add -f output_recent5_plus_current/nhl_team_form_prematch_5_10_15.csv
+            git add -f output_recent5_plus_current/nhl_coverage_by_season.csv
+            if [ -f output_recent5_plus_current/nhl_failed_game_ids.csv ]; then
+              git add -f output_recent5_plus_current/nhl_failed_game_ids.csv
+            fi
+          fi
+          if [ "$EDGE_RESULT" = success ]; then
+            git add -- nhl_edge_data/*.json
           fi
 
           if git diff --cached --quiet; then
@@ -49,3 +64,7 @@ jobs:
             git commit -m "Actualisation quotidienne des données NHL"
             git push
           fi
+
+      - name: Signaler une collecte incomplète
+        if: steps.form.outcome == 'failure' || steps.edge.outcome == 'failure'
+        run: exit 1
