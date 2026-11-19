@@ -4,35 +4,33 @@ import math
 from pathlib import Path
 
 import streamlit as st
+from nhl_edge_view import pick_teams, render_edge
 
 import subprocess
 import sys
 
-st.set_page_config(page_title="NHL — Forme des équipes", page_icon="🏒", layout="wide")
+st.set_page_config(page_title="NHL — Face-à-face", page_icon="🏒", layout="wide")
 
-st.title("🏒 NHL — Forme des équipes")
-st.caption("Version 0 : affichage descriptif des données, sans prédiction ni cotes.")
+st.title("🏒 NHL — Face-à-face")
 
 app_dir = Path(__file__).resolve().parent
 
 if st.button("🔄 Actualiser les données NHL", type="primary"):
-    refresh_script = app_dir / "refresh_nhl_data.py"
+    for title, script, workers in (("Forme récente", "refresh_nhl_data.py", "8"),
+                                   ("NHL EDGE", "collect_nhl_edge_teams.py", "4")):
+        with st.spinner(f"Actualisation en cours · {title}"):
+            result = subprocess.run([sys.executable, str(app_dir / script), "--workers", workers],
+                                    cwd=app_dir, capture_output=True, text=True)
+        if result.returncode == 0:
+            st.success(f"{title} · données actualisées.")
+        else:
+            st.error(f"{title} · échec de l’actualisation.")
+            st.code((result.stdout + "\n" + result.stderr)[-3000:])
 
-    with st.spinner("Collecte NHL en cours… Laisse la page ouverte jusqu’à la fin."):
-        result = subprocess.run(
-            [sys.executable, str(refresh_script), "--workers", "8"],
-            cwd=app_dir,
-            capture_output=True,
-            text=True,
-        )
-
-    if result.returncode == 0:
-        st.success("Données actualisées.")
-        st.rerun()
-    else:
-        st.error("La collecte a échoué. Voici le journal :")
-        log = (result.stdout or "") + "\n" + (result.stderr or "")
-        st.code(log[-6000:])
+view = st.radio("Vue du face-à-face", ("Forme récente", "NHL EDGE"), horizontal=True, key="vs_view")
+if view == "NHL EDGE":
+    render_edge(app_dir / "nhl_edge_data")
+    st.stop()
 
 uploaded_file = st.file_uploader(
     "Importe le fichier nhl_current_team_form.csv",
@@ -125,16 +123,7 @@ def pair(row, column_for, column_against, decimals=1):
         f"{number(row, column_against, decimals)}"
     )
 
-col_a, col_b = st.columns(2)
-
-default_a = teams.index("CAR") if "CAR" in teams else 0
-default_b = teams.index("CBJ") if "CBJ" in teams else 1
-
-with col_a:
-    team_a = st.selectbox("Équipe A", teams, index=default_a)
-
-with col_b:
-    team_b = st.selectbox("Équipe B", teams, index=default_b)
+team_a, team_b = pick_teams(teams, "form")
 
 window = st.radio(
     "Forme récente",
