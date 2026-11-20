@@ -25,7 +25,12 @@ st.title("🏒 NHL — Face-à-face")
 
 app_dir = Path(__file__).resolve().parent
 
-view = st.radio("Vue du face-à-face", ("Forme récente", "NHL EDGE"), horizontal=True, key="vs_view")
+view = st.radio(
+    "Vue du face-à-face",
+    ("Forme récente", "NHL EDGE", "Gardiens"),
+    horizontal=True,
+    key="vs_view",
+)
 local_file = app_dir / "nhl_current_team_form.csv"
 uploaded_file = None
 
@@ -46,6 +51,11 @@ with st.expander("Données NHL", expanded=view == "Forme récente" and not local
 
 if view == "NHL EDGE":
     render_edge(app_dir / "nhl_edge_data")
+    st.stop()
+
+if view == "Gardiens":
+    st.title("Gardiens")
+    st.info("La fiche gardiens sera ajoutée ici.")
     st.stop()
 
 if local_file.exists():
