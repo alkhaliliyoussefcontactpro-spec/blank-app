@@ -1,15 +1,15 @@
 DONNÉES NHL — NIVEAU DE JEU DES ÉQUIPES
 ============================================
 
-Date de génération (UTC) : 2026-11-15T09:14:55.584610+00:00
+Date de génération (UTC) : 2026-11-20T13:30:52.863419+00:00
 Période : saisons 2021-22 à 2025-26, plus 2026-27 en cours.
 Matchs réguliers dans l’archive : 6,845
-Nouveaux matchs terminés ajoutés : 40
-Matchs avec statistiques d’équipe : 6,885
-Lignes équipe-match : 13,770
-Lignes de forme pré-match : 13,770
+Nouveaux matchs terminés ajoutés : 60
+Matchs avec statistiques d’équipe : 6,918
+Lignes équipe-match : 13,836
+Lignes de forme pré-match : 13,836
 Échecs d’API / matchs manquants : 0 / 0
-Matchs PBP discordants écartés des variables d’événements : 113
+Matchs PBP discordants écartés des variables d’événements : 115
 
 DÉFINITIONS
 - Corsi : buts + tirs cadrés + tirs manqués + tentatives bloquées.
