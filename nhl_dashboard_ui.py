@@ -1,6 +1,8 @@
 """Shared presentation for the NHL matchup views."""
 
+from base64 import b64encode
 from html import escape
+from pathlib import Path
 
 import altair as alt
 import streamlit as st
@@ -35,8 +37,14 @@ def team_colors(teams):
 def logo(team):
     if team not in TEAM_COLORS:
         return ""
+    # NHL artwork from https://assets.nhle.com/logos/nhl/svg/{team}_light.svg.
+    path = Path(__file__).resolve().parent / "assets" / "nhl-logos" / f"{team}.svg"
+    try:
+        image = b64encode(path.read_bytes()).decode("ascii")
+    except OSError:
+        return ""
     return (
-        f'<img src="https://assets.nhle.com/logos/nhl/svg/{team}_light.svg" '
+        f'<img src="data:image/svg+xml;base64,{image}" '
         'alt="" width="48" height="48" loading="lazy">'
     )
 
