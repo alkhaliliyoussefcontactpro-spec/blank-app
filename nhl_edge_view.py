@@ -5,6 +5,8 @@ from datetime import date
 
 import streamlit as st
 
+from nhl_dashboard_ui import full_table, grouped_bars, team_banner, team_colors
+
 
 LOCATIONS = {
     "high": "Zone à haut danger", "mid": "Mi-distance",
@@ -62,27 +64,36 @@ def show_shots(teams):
             for name in club[group]:
                 locations.setdefault(name, name)
 
-    rows = []
-    config = {}
-    for location, label in locations.items():
+    rows, winners = [], set()
+    colors = {}
+    palette = team_colors(tuple(teams))
+    for i, (location, label) in enumerate(locations.items()):
         row = {"Emplacement": label}
-        for abbrev, club in teams.items():
+        metrics = {"Tirs": [], "Buts": [], "Réussite": []}
+        for (abbrev, club), color in zip(teams.items(), palette):
             values = club[group].get(location, {})
             shots, goals = values.get(count), values.get("goals")
             divisor = club["gamesPlayed"] if per_game else 1
-            for metric, value in (("Tirs", shots), ("Buts", goals)):
-                key = f"{abbrev} · {metric}"
-                row[key] = value / divisor if divisor and value is not None else None
-                config[key] = st.column_config.NumberColumn(format="%.2f" if per_game else "%d")
             rate = values.get("shootingPctg")
             if shots and rate is None and goals is not None:
                 rate = goals / shots
-            key = f"{abbrev} · Réussite"
-            row[key] = percent(rate) if shots else None
-            config[key] = st.column_config.NumberColumn(format="%.1f %%")
+            for metric, value, precision, unit in (
+                ("Tirs", shots / divisor if divisor and shots is not None else None,
+                 2 if per_game else 0, ""),
+                ("Buts", goals / divisor if divisor and goals is not None else None,
+                 2 if per_game else 0, ""),
+                ("Réussite", percent(rate) if shots else None, 1, " %"),
+            ):
+                key = f"{abbrev} · {metric}"
+                row[key] = formatted(value, precision) + unit if value is not None else None
+                colors[key] = color
+                metrics[metric].append((key, value))
+        for metric in ("Buts", "Réussite"):
+            (key_a, a), (key_b, b) = metrics[metric]
+            if a is not None and b is not None and row[key_a] != row[key_b]:
+                winners.add((i, key_a if a > b else key_b))
         rows.append(row)
-    st.dataframe(rows, column_config=config, hide_index=True, width="stretch",
-                 height="content")
+    full_table(rows, winners=winners, colors=colors)
     st.caption("Réussite = buts / tirs cadrés. « Par match » divise les volumes de la saison "
                "par les matchs joués. Le total couvre tous les emplacements suivis par EDGE.")
 
@@ -103,7 +114,8 @@ def show_shots(teams):
                                                if field == "shootingPctg" else formatted(average, 1))
                 ranks.append(rank)
         st.caption("Classements NHL sur l’ensemble de la saison régulière.")
-        st.dataframe(ranks, hide_index=True, width="stretch")
+        full_table(ranks, ["Emplacement", "Indicateur", *(f"Rang {club}" for club in teams),
+                           "Moyenne NHL"])
 
 
 def show_zones(teams):
@@ -112,22 +124,34 @@ def show_zones(teams):
                         horizontal=True, key="edge_strength")
     st.caption("Part du temps de jeu pendant laquelle le palet se trouve dans chaque zone, "
                "quelle que soit l’équipe qui le contrôle.")
-    rows, config = [], {}
-    for zone, name in ZONES.items():
+    rows, winners = [], set()
+    palette = team_colors(tuple(teams))
+    series = {club: [] for club in teams}
+    for i, (zone, name) in enumerate(ZONES.items()):
         row = {"Zone": name}
         for abbrev, club in teams.items():
             values = club["zones"][strength]
-            row[abbrev] = percent(values.get(f"{zone}ZonePctg"))
+            rate = percent(values.get(f"{zone}ZonePctg"))
+            series[abbrev].append(rate)
+            row[abbrev] = formatted(rate, 1) + " %" if rate is not None else None
             row[f"Rang {abbrev}"] = values.get(f"{zone}ZoneRank")
-            config[abbrev] = st.column_config.NumberColumn(format="%.1f %%")
         league = [club["zones"][strength].get(f"{zone}ZoneLeagueAvg") for club in teams.values()]
-        row["Moyenne NHL"] = percent(next((x for x in league if x is not None), None))
+        league_rate = percent(next((x for x in league if x is not None), None))
+        row["Moyenne NHL"] = formatted(league_rate, 1) + " %" if league_rate is not None else None
+        club_a, club_b = teams
+        a, b = series[club_a][-1], series[club_b][-1]
+        if zone != "neutral" and a is not None and b is not None and row[club_a] != row[club_b]:
+            leader = club_a if (a > b) == (zone == "offensive") else club_b
+            winners.add((i, leader))
         rows.append(row)
-    config["Moyenne NHL"] = st.column_config.NumberColumn(format="%.1f %%")
-    st.bar_chart(rows, x="Zone", y=list(teams), y_label="Temps en zone (%)",
-                 stack=False, sort=False, height=230, width="stretch")
-    st.dataframe(rows, column_order=["Zone", *teams, "Moyenne NHL", *(f"Rang {t}" for t in teams)],
-                 column_config=config, hide_index=True, width="stretch")
+    grouped_bars(
+        list(ZONES.values()), series, palette,
+        x_title=None, y_title="Temps en zone (%)", height=360, show_values=True,
+    )
+    full_table(
+        rows, ["Zone", *teams, "Moyenne NHL", *(f"Rang {t}" for t in teams)],
+        winners=winners, colors=dict(zip(teams, palette)),
+    )
 
 
 def formatted(value, decimals=0):
@@ -154,7 +178,7 @@ def show_tracking(teams):
                 if metric["leagueAvg"] is not None:
                     row["Moyenne NHL"] = formatted(metric["leagueAvg"], precision)
             rows.append(row)
-        st.dataframe(rows, hide_index=True, width="stretch")
+        full_table(rows, ["Indicateur", *teams, *(f"Rang {club}" for club in teams), "Moyenne NHL"])
         season_rows = []
         for abbrev, club in teams.items():
             season_rows.append({
@@ -166,7 +190,7 @@ def show_tracking(teams):
                 "Différentiel de tirs cadrés (EDGE)": club["shotDifferential"].get("sogDifferential"),
                 "Rang tirs cadrés": club["shotDifferential"].get("sogDifferentialRank"),
             })
-        st.dataframe(season_rows, hide_index=True, width="stretch")
+        full_table(season_rows)
 
     with st.expander("Distance patinée lors des 10 derniers matchs"):
         for column, (abbrev, club) in zip(st.columns(2), teams.items()):
@@ -175,9 +199,10 @@ def show_tracking(teams):
                       "Lieu": "Domicile" if abbrev == g["home"] else "Extérieur",
                       "Distance (km)": g["km"]} for g in reversed(club["last10"])]
             if games:
-                column.dataframe(games, column_config={
-                    "Distance (km)": st.column_config.NumberColumn(format="%.2f")},
-                    hide_index=True, width="stretch")
+                for game in games:
+                    game["Distance (km)"] = formatted(game["Distance (km)"], 2)
+                with column:
+                    full_table(games)
             else:
                 column.caption("Aucune distance par match disponible pour cette équipe.")
 
@@ -201,6 +226,7 @@ def render_edge(data_dir):
     a, b = pick_teams(sorted(teams), "edge")
     matchup = {a: teams[a], b: teams[b]}
     st.subheader(f"{a} contre {b} · {season[:4]}–{season[-2:]}")
+    team_banner((a, b))
     stamp = date.fromisoformat(payload["collectedUTC"][:10]).strftime("%d/%m/%Y")
     st.caption(f"Saison régulière · {a} {teams[a]['gamesPlayed']} matchs · "
                f"{b} {teams[b]['gamesPlayed']} matchs · Relevé du {stamp}.")
