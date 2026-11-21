@@ -1,7 +1,7 @@
 {
  "season": "20262027",
  "gameType": 2,
-"collectedUTC": "2026-11-20T13:35:13+00:00",
+ "collectedUTC": "2026-11-21T13:22:05+00:00",
  "teams": {
   "ANA": {
    "id": 24,
@@ -239,10 +239,10 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -1.347826,
+    "shotAttemptDifferential": -1.26087,
     "shotAttemptDifferentialRank": 17,
-    "sogDifferential": -0.782609,
-    "sogDifferentialRank": 19
+    "sogDifferential": -0.695652,
+    "sogDifferentialRank": 18
    },
    "last10": [
     {
@@ -552,8 +552,8 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -2.136364,
-    "shotAttemptDifferentialRank": 20,
+    "shotAttemptDifferential": -2.181818,
+    "shotAttemptDifferentialRank": 21,
     "sogDifferential": -0.090909,
     "sogDifferentialRank": 14
    },
@@ -865,9 +865,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 1.227273,
+    "shotAttemptDifferential": 1.272727,
     "shotAttemptDifferentialRank": 11,
-    "sogDifferential": -0.545455,
+    "sogDifferential": -0.5,
     "sogDifferentialRank": 16
    },
    "last10": [
@@ -1179,7 +1179,7 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 22.318182,
+    "shotAttemptDifferential": 22.272727,
     "shotAttemptDifferentialRank": 1,
     "sogDifferential": 11.363636,
     "sogDifferentialRank": 1
@@ -1806,9 +1806,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -2.217391,
-    "shotAttemptDifferentialRank": 21,
-    "sogDifferential": -2.391304,
+    "shotAttemptDifferential": -2.130435,
+    "shotAttemptDifferentialRank": 20,
+    "sogDifferential": -2.347826,
     "sogDifferentialRank": 25
    },
    "last10": [
@@ -2432,9 +2432,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 6.043478,
+    "shotAttemptDifferential": 5.956522,
     "shotAttemptDifferentialRank": 6,
-    "sogDifferential": 2.826087,
+    "sogDifferential": 2.73913,
     "sogDifferentialRank": 8
    },
    "last10": [
@@ -3373,9 +3373,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -3.958333,
+    "shotAttemptDifferential": -4.041667,
     "shotAttemptDifferentialRank": 26,
-    "sogDifferential": -1.625,
+    "sogDifferential": -1.708333,
     "sogDifferentialRank": 23
    },
    "last10": [
@@ -4001,8 +4001,8 @@
    "shotDifferential": {
     "shotAttemptDifferential": 3.6,
     "shotAttemptDifferentialRank": 7,
-    "sogDifferential": 0.35,
-    "sogDifferentialRank": 12
+    "sogDifferential": 0.3,
+    "sogDifferentialRank": 13
    },
    "last10": [
     {
@@ -4313,9 +4313,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 1.166667,
+    "shotAttemptDifferential": 1.083333,
     "shotAttemptDifferentialRank": 12,
-    "sogDifferential": 3.0,
+    "sogDifferential": 2.958333,
     "sogDifferentialRank": 7
    },
    "last10": [
@@ -4627,7 +4627,7 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -0.173913,
+    "shotAttemptDifferential": -0.130435,
     "shotAttemptDifferentialRank": 14,
     "sogDifferential": -0.565217,
     "sogDifferentialRank": 17
@@ -5566,9 +5566,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -2.809524,
+    "shotAttemptDifferential": -2.761905,
     "shotAttemptDifferentialRank": 24,
-    "sogDifferential": -2.52381,
+    "sogDifferential": -2.47619,
     "sogDifferentialRank": 26
    },
    "last10": [
@@ -6197,7 +6197,7 @@
     "shotAttemptDifferential": 1.869565,
     "shotAttemptDifferentialRank": 10,
     "sogDifferential": 0.304348,
-    "sogDifferentialRank": 13
+    "sogDifferentialRank": 12
    },
    "last10": [
     {
@@ -6823,7 +6823,7 @@
     "shotAttemptDifferential": 2.666667,
     "shotAttemptDifferentialRank": 8,
     "sogDifferential": -0.952381,
-    "sogDifferentialRank": 21
+    "sogDifferentialRank": 22
    },
    "last10": [
     {
@@ -7133,9 +7133,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -16.0,
+    "shotAttemptDifferential": -16.052632,
     "shotAttemptDifferentialRank": 32,
-    "sogDifferential": -4.947368,
+    "sogDifferential": -4.894737,
     "sogDifferentialRank": 30
    },
    "last10": [
@@ -8072,9 +8072,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 7.318182,
+    "shotAttemptDifferential": 7.409091,
     "shotAttemptDifferentialRank": 5,
-    "sogDifferential": 3.727273,
+    "sogDifferential": 3.818182,
     "sogDifferentialRank": 5
    },
    "last10": [
@@ -8386,10 +8386,10 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -3.916667,
+    "shotAttemptDifferential": -3.875,
     "shotAttemptDifferentialRank": 25,
-    "sogDifferential": -0.958333,
-    "sogDifferentialRank": 22
+    "sogDifferential": -0.916667,
+    "sogDifferentialRank": 21
    },
    "last10": [
     {
@@ -9014,9 +9014,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -12.0,
+    "shotAttemptDifferential": -11.958333,
     "shotAttemptDifferentialRank": 31,
-    "sogDifferential": -9.125,
+    "sogDifferential": -9.166667,
     "sogDifferentialRank": 32
    },
    "last10": [
@@ -9639,10 +9639,10 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -2.521739,
+    "shotAttemptDifferential": -2.565217,
     "shotAttemptDifferentialRank": 22,
-    "sogDifferential": -0.695652,
-    "sogDifferentialRank": 18
+    "sogDifferential": -0.73913,
+    "sogDifferentialRank": 19
    },
    "last10": [
     {
@@ -9951,9 +9951,9 @@
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -1.6,
+    "shotAttemptDifferential": -1.65,
     "shotAttemptDifferentialRank": 19,
-    "sogDifferential": 1.2,
+    "sogDifferential": 1.15,
     "sogDifferentialRank": 11
    },
    "last10": [
