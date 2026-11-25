@@ -1,7 +1,7 @@
 {
  "season": "20262027",
  "gameType": 2,
- "collectedUTC": "2026-11-24T13:39:31+00:00",
+ "collectedUTC": "2026-11-25T13:44:11+00:00",
  "teams": {
   "ANA": {
    "id": 24,
@@ -13,47 +13,47 @@
    "shots": {
     "all": {
      "shots": 654,
-     "shotsRank": 15,
-     "shotsLeagueAvg": 658.2813,
+     "shotsRank": 16,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1361,
      "shootingPctgRank": 2,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 89,
      "goalsRank": 6,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 194,
      "shotsRank": 12,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2474,
      "shootingPctgRank": 3,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 48,
-     "goalsRank": 1,
-     "goalsLeagueAvg": 36.9688
+     "goalsRank": 2,
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 134,
-     "shotsRank": 13,
-     "shotsLeagueAvg": 131.6875,
+     "shotsRank": 14,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0299,
      "shootingPctgRank": 23,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 171,
      "shotsRank": 27,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1287,
      "shootingPctgRank": 14,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 22,
      "goalsRank": 21,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -164,46 +164,46 @@
     "all": {
      "offensiveZonePctg": 0.4040348,
      "offensiveZoneRank": 27,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1846191,
      "neutralZoneRank": 2,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4113461,
      "defensiveZoneRank": 17,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4005977,
      "offensiveZoneRank": 25,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1912477,
      "neutralZoneRank": 2,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4081545,
      "defensiveZoneRank": 16,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5811043,
      "offensiveZoneRank": 24,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1442652,
      "neutralZoneRank": 17,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2746305,
      "defensiveZoneRank": 21,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2699212,
      "offensiveZoneRank": 13,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1596463,
      "neutralZoneRank": 2,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5704325,
      "defensiveZoneRank": 7,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -220,7 +220,7 @@
     "burstsOver20": {
      "value": 613,
      "rank": 7,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 39,
@@ -235,12 +235,12 @@
     "total": {
      "value": 1830.5021,
      "rank": 11,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 0.16,
-    "shotAttemptDifferentialRank": 13,
+    "shotAttemptDifferential": 0.08,
+    "shotAttemptDifferentialRank": 14,
     "sogDifferential": 0.32,
     "sogDifferentialRank": 13
    },
@@ -328,46 +328,46 @@
     "all": {
      "shots": 630,
      "shotsRank": 22,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1302,
      "shootingPctgRank": 3,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 82,
      "goalsRank": 9,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 185,
      "shotsRank": 16,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2324,
      "shootingPctgRank": 5,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 43,
      "goalsRank": 7,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 107,
      "shotsRank": 28,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0374,
      "shootingPctgRank": 17,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 195,
      "shotsRank": 17,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1333,
      "shootingPctgRank": 13,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 26,
      "goalsRank": 11,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -441,7 +441,7 @@
      "sog": 33,
      "goals": 1,
      "shootingPctg": 0.0303,
-     "shotsRank": 20
+     "shotsRank": 21
     },
     "Outside R": {
      "sog": 39,
@@ -477,46 +477,46 @@
     "all": {
      "offensiveZonePctg": 0.3917271,
      "offensiveZoneRank": 29,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1878122,
      "neutralZoneRank": 1,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4204607,
      "defensiveZoneRank": 28,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3894411,
      "offensiveZoneRank": 28,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1939593,
      "neutralZoneRank": 1,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4165996,
      "defensiveZoneRank": 28,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5487954,
      "offensiveZoneRank": 30,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1623275,
      "neutralZoneRank": 1,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2888771,
      "defensiveZoneRank": 28,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2623037,
      "offensiveZoneRank": 18,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1524591,
      "neutralZoneRank": 9,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5852372,
      "defensiveZoneRank": 16,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -533,7 +533,7 @@
     "burstsOver20": {
      "value": 447,
      "rank": 27,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 14,
@@ -548,7 +548,7 @@
     "total": {
      "value": 1680.1296,
      "rank": 25,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -640,47 +640,47 @@
    "shots": {
     "all": {
      "shots": 644,
-     "shotsRank": 17,
-     "shotsLeagueAvg": 658.2813,
+     "shotsRank": 18,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1134,
-     "shootingPctgRank": 17,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgRank": 18,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 73,
      "goalsRank": 17,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 177,
      "shotsRank": 19,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1751,
      "shootingPctgRank": 26,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 31,
      "goalsRank": 26,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 127,
      "shotsRank": 20,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0551,
      "shootingPctgRank": 9,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 7,
      "goalsRank": 8,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 204,
-     "shotsRank": 10,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 11,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1373,
      "shootingPctgRank": 11,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 28,
-     "goalsRank": 6,
-     "goalsLeagueAvg": 24.0
+     "goalsRank": 7,
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -753,13 +753,13 @@
      "sog": 35,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 15
+     "shotsRank": 16
     },
     "Outside R": {
      "sog": 33,
      "goals": 2,
      "shootingPctg": 0.0606,
-     "shotsRank": 20
+     "shotsRank": 21
     },
     "R Circle": {
      "sog": 76,
@@ -790,52 +790,52 @@
     "all": {
      "offensiveZonePctg": 0.4094236,
      "offensiveZoneRank": 16,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1810608,
      "neutralZoneRank": 7,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4095155,
      "defensiveZoneRank": 12,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4098515,
      "offensiveZoneRank": 12,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1875057,
      "neutralZoneRank": 9,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4026428,
      "defensiveZoneRank": 10,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5714618,
      "offensiveZoneRank": 25,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1598775,
      "neutralZoneRank": 2,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2686607,
      "defensiveZoneRank": 18,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2501937,
      "offensiveZoneRank": 24,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1396723,
      "neutralZoneRank": 22,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.610134,
      "defensiveZoneRank": 25,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
     "shotAttemptsOver90": {
      "value": 28,
-     "rank": 3,
+     "rank": 4,
      "leagueAvg": null
     },
     "topShotSpeed": {
@@ -846,7 +846,7 @@
     "burstsOver20": {
      "value": 761,
      "rank": 2,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 46,
@@ -861,7 +861,7 @@
     "total": {
      "value": 1779.3497,
      "rank": 15,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -954,46 +954,46 @@
     "all": {
      "shots": 803,
      "shotsRank": 1,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1245,
      "shootingPctgRank": 8,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 100,
-     "goalsRank": 1,
-     "goalsLeagueAvg": 75.6563
+     "goalsRank": 2,
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 228,
      "shotsRank": 2,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2061,
      "shootingPctgRank": 14,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 47,
-     "goalsRank": 2,
-     "goalsLeagueAvg": 36.9688
+     "goalsRank": 4,
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 155,
      "shotsRank": 4,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0581,
      "shootingPctgRank": 6,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 9,
      "goalsRank": 3,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 244,
      "shotsRank": 1,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1516,
      "shootingPctgRank": 3,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 37,
      "goalsRank": 1,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -1037,7 +1037,7 @@
      "sog": 3,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 3
+     "shotsRank": 4
     },
     "L Net Side": {
      "sog": 14,
@@ -1104,46 +1104,46 @@
     "all": {
      "offensiveZonePctg": 0.4596646,
      "offensiveZoneRank": 1,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1792119,
      "neutralZoneRank": 16,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.3611235,
      "defensiveZoneRank": 1,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.459804,
      "offensiveZoneRank": 1,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1869344,
      "neutralZoneRank": 11,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.3532616,
      "defensiveZoneRank": 1,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5923081,
-     "offensiveZoneRank": 17,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneRank": 16,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1321033,
      "neutralZoneRank": 28,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2755887,
      "defensiveZoneRank": 22,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.3190383,
      "offensiveZoneRank": 1,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1530358,
      "neutralZoneRank": 6,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5279259,
      "defensiveZoneRank": 1,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -1160,7 +1160,7 @@
     "burstsOver20": {
      "value": 554,
      "rank": 14,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 23,
@@ -1175,7 +1175,7 @@
     "total": {
      "value": 1759.9746,
      "rank": 18,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -1268,46 +1268,46 @@
     "all": {
      "shots": 605,
      "shotsRank": 25,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.0893,
      "shootingPctgRank": 31,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 54,
      "goalsRank": 32,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 155,
      "shotsRank": 29,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1484,
      "shootingPctgRank": 29,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 23,
      "goalsRank": 31,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 127,
      "shotsRank": 20,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0236,
      "shootingPctgRank": 28,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 3,
      "goalsRank": 27,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 180,
      "shotsRank": 24,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1278,
      "shootingPctgRank": 16,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 23,
      "goalsRank": 19,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -1339,7 +1339,7 @@
      "sog": 60,
      "goals": 7,
      "shootingPctg": 0.1167,
-     "shotsRank": 19
+     "shotsRank": 20
     },
     "L Circle": {
      "sog": 65,
@@ -1417,46 +1417,46 @@
     "all": {
      "offensiveZonePctg": 0.4156932,
      "offensiveZoneRank": 10,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1790796,
      "neutralZoneRank": 17,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4052273,
      "defensiveZoneRank": 10,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4103577,
      "offensiveZoneRank": 11,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1859216,
      "neutralZoneRank": 18,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4037207,
      "defensiveZoneRank": 12,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6272605,
      "offensiveZoneRank": 1,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.131834,
      "neutralZoneRank": 29,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2409055,
      "defensiveZoneRank": 3,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2859145,
      "offensiveZoneRank": 6,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1420358,
      "neutralZoneRank": 20,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5720497,
      "defensiveZoneRank": 9,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -1473,7 +1473,7 @@
     "burstsOver20": {
      "value": 417,
      "rank": 30,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 14,
@@ -1488,7 +1488,7 @@
     "total": {
      "value": 1621.5641,
      "rank": 29,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -1579,48 +1579,48 @@
    "points": 22,
    "shots": {
     "all": {
-     "shots": 693,
+     "shots": 692,
      "shotsRank": 9,
-     "shotsLeagueAvg": 658.2813,
-     "shootingPctg": 0.088,
+     "shotsLeagueAvg": 659.8438,
+     "shootingPctg": 0.0882,
      "shootingPctgRank": 32,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 61,
      "goalsRank": 29,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
-     "shots": 172,
-     "shotsRank": 23,
-     "shotsLeagueAvg": 185.2813,
-     "shootingPctg": 0.1337,
+     "shots": 171,
+     "shotsRank": 24,
+     "shotsLeagueAvg": 185.5625,
+     "shootingPctg": 0.1345,
      "shootingPctgRank": 32,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 23,
      "goalsRank": 31,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 151,
      "shotsRank": 7,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0066,
      "shootingPctgRank": 32,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 1,
      "goalsRank": 32,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 207,
-     "shotsRank": 6,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 7,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1449,
      "shootingPctgRank": 4,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 30,
      "goalsRank": 3,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -1640,7 +1640,7 @@
      "sog": 59,
      "goals": 1,
      "shootingPctg": 0.0169,
-     "shotsRank": 6
+     "shotsRank": 7
     },
     "Crease": {
      "sog": 22,
@@ -1679,10 +1679,10 @@
      "shotsRank": 2
     },
     "Low Slot": {
-     "sog": 150,
+     "sog": 149,
      "goals": 19,
-     "shootingPctg": 0.1267,
-     "shotsRank": 22
+     "shootingPctg": 0.1275,
+     "shotsRank": 23
     },
     "Offensive Neutral Zone": {
      "sog": 24,
@@ -1694,7 +1694,7 @@
      "sog": 36,
      "goals": 2,
      "shootingPctg": 0.0556,
-     "shotsRank": 14
+     "shotsRank": 15
     },
     "Outside R": {
      "sog": 29,
@@ -1731,46 +1731,46 @@
     "all": {
      "offensiveZonePctg": 0.4077412,
      "offensiveZoneRank": 19,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1811747,
      "neutralZoneRank": 5,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4110841,
      "defensiveZoneRank": 16,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4082188,
-     "offensiveZoneRank": 16,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneRank": 17,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1869291,
      "neutralZoneRank": 12,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4048521,
      "defensiveZoneRank": 13,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5923293,
-     "offensiveZoneRank": 16,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneRank": 15,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1416902,
      "neutralZoneRank": 19,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2659805,
      "defensiveZoneRank": 17,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2674,
      "offensiveZoneRank": 14,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1529459,
      "neutralZoneRank": 7,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5796542,
      "defensiveZoneRank": 13,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -1787,7 +1787,7 @@
     "burstsOver20": {
      "value": 546,
      "rank": 18,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 24,
@@ -1801,14 +1801,14 @@
     },
     "total": {
      "value": 1851.4563,
-     "rank": 7,
-     "leagueAvg": 1756.7922
+     "rank": 8,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -1.6,
+    "shotAttemptDifferential": -1.64,
     "shotAttemptDifferentialRank": 19,
-    "sogDifferential": -1.84,
+    "sogDifferential": -1.88,
     "sogDifferentialRank": 23
    },
    "last10": [
@@ -1895,46 +1895,46 @@
     "all": {
      "shots": 572,
      "shotsRank": 31,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1119,
      "shootingPctgRank": 21,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 64,
      "goalsRank": 27,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 151,
      "shotsRank": 30,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2185,
      "shootingPctgRank": 9,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 33,
      "goalsRank": 24,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 98,
      "shotsRank": 32,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0204,
      "shootingPctgRank": 30,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 2,
      "goalsRank": 30,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 179,
      "shotsRank": 25,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1397,
-     "shootingPctgRank": 7,
+     "shootingPctgRank": 8,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 25,
      "goalsRank": 12,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -1966,7 +1966,7 @@
      "sog": 58,
      "goals": 8,
      "shootingPctg": 0.1379,
-     "shotsRank": 22
+     "shotsRank": 23
     },
     "L Circle": {
      "sog": 58,
@@ -2008,13 +2008,13 @@
      "sog": 34,
      "goals": 1,
      "shootingPctg": 0.0294,
-     "shotsRank": 17
+     "shotsRank": 18
     },
     "Outside R": {
      "sog": 37,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 12
+     "shotsRank": 13
     },
     "R Circle": {
      "sog": 63,
@@ -2045,46 +2045,46 @@
     "all": {
      "offensiveZonePctg": 0.3919997,
      "offensiveZoneRank": 28,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.180875,
      "neutralZoneRank": 9,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4271253,
      "defensiveZoneRank": 29,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3882692,
      "offensiveZoneRank": 29,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1867553,
      "neutralZoneRank": 14,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4249755,
      "defensiveZoneRank": 29,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5658946,
      "offensiveZoneRank": 26,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1460869,
      "neutralZoneRank": 15,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2880185,
      "defensiveZoneRank": 27,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2809721,
      "offensiveZoneRank": 7,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1536585,
      "neutralZoneRank": 5,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5653694,
      "defensiveZoneRank": 5,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -2100,8 +2100,8 @@
     },
     "burstsOver20": {
      "value": 509,
-     "rank": 20,
-     "leagueAvg": 543
+     "rank": 21,
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 20,
@@ -2116,7 +2116,7 @@
     "total": {
      "value": 1760.0387,
      "rank": 17,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -2208,47 +2208,47 @@
    "shots": {
     "all": {
      "shots": 692,
-     "shotsRank": 10,
-     "shotsLeagueAvg": 658.2813,
+     "shotsRank": 9,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1301,
      "shootingPctgRank": 4,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 90,
      "goalsRank": 4,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 184,
      "shotsRank": 17,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2337,
      "shootingPctgRank": 4,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 43,
      "goalsRank": 7,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 171,
      "shotsRank": 1,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0351,
-     "shootingPctgRank": 18,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgRank": 19,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 6,
      "goalsRank": 10,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 206,
-     "shotsRank": 7,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 8,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1408,
-     "shootingPctgRank": 6,
+     "shootingPctgRank": 7,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 29,
-     "goalsRank": 5,
-     "goalsLeagueAvg": 24.0
+     "goalsRank": 6,
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -2350,53 +2350,53 @@
      "sog": 58,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 3
+     "shotsRank": 4
     }
    },
    "zones": {
     "all": {
      "offensiveZonePctg": 0.4221537,
      "offensiveZoneRank": 4,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1803776,
      "neutralZoneRank": 13,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.3974687,
      "defensiveZoneRank": 5,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4175226,
      "offensiveZoneRank": 4,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1861899,
      "neutralZoneRank": 17,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.3962875,
      "defensiveZoneRank": 5,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5938769,
-     "offensiveZoneRank": 14,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneRank": 13,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1512895,
      "neutralZoneRank": 11,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2548336,
-     "defensiveZoneRank": 9,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneRank": 8,
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2713571,
      "offensiveZoneRank": 12,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1567714,
      "neutralZoneRank": 4,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5718714,
      "defensiveZoneRank": 8,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -2413,7 +2413,7 @@
     "burstsOver20": {
      "value": 663,
      "rank": 3,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 56,
@@ -2428,7 +2428,7 @@
     "total": {
      "value": 1682.22,
      "rank": 24,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -2521,46 +2521,46 @@
     "all": {
      "shots": 596,
      "shotsRank": 28,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1057,
      "shootingPctgRank": 25,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 63,
      "goalsRank": 28,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 178,
      "shotsRank": 18,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1573,
      "shootingPctgRank": 28,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 28,
      "goalsRank": 28,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 116,
      "shotsRank": 25,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0345,
-     "shootingPctgRank": 19,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgRank": 20,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 167,
      "shotsRank": 31,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1138,
      "shootingPctgRank": 22,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 19,
      "goalsRank": 27,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -2634,7 +2634,7 @@
      "sog": 32,
      "goals": 2,
      "shootingPctg": 0.0625,
-     "shotsRank": 22
+     "shotsRank": 23
     },
     "Outside R": {
      "sog": 23,
@@ -2670,46 +2670,46 @@
     "all": {
      "offensiveZonePctg": 0.4077208,
      "offensiveZoneRank": 20,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1758527,
      "neutralZoneRank": 24,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4164265,
      "defensiveZoneRank": 24,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.404962,
      "offensiveZoneRank": 21,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.182316,
      "neutralZoneRank": 25,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4127219,
      "defensiveZoneRank": 24,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5845844,
      "offensiveZoneRank": 21,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1415029,
      "neutralZoneRank": 20,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2739127,
      "defensiveZoneRank": 20,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.3113914,
      "offensiveZoneRank": 2,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1456707,
      "neutralZoneRank": 16,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5429379,
      "defensiveZoneRank": 2,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -2726,7 +2726,7 @@
     "burstsOver20": {
      "value": 464,
      "rank": 24,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 22,
@@ -2741,12 +2741,12 @@
     "total": {
      "value": 1676.8216,
      "rank": 26,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
     "shotAttemptDifferential": 0.086957,
-    "shotAttemptDifferentialRank": 14,
+    "shotAttemptDifferentialRank": 13,
     "sogDifferential": 1.652174,
     "sogDifferentialRank": 10
    },
@@ -2833,47 +2833,47 @@
    "shots": {
     "all": {
      "shots": 641,
-     "shotsRank": 18,
-     "shotsLeagueAvg": 658.2813,
+     "shotsRank": 19,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.0905,
      "shootingPctgRank": 30,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 58,
      "goalsRank": 31,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 170,
      "shotsRank": 25,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1412,
      "shootingPctgRank": 31,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 24,
      "goalsRank": 30,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 134,
-     "shotsRank": 13,
-     "shotsLeagueAvg": 131.6875,
+     "shotsRank": 14,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0597,
-     "shootingPctgRank": 5,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgRank": 4,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 8,
      "goalsRank": 5,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 183,
      "shotsRank": 21,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.0874,
      "shootingPctgRank": 30,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 16,
      "goalsRank": 31,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -2947,7 +2947,7 @@
      "sog": 35,
      "goals": 2,
      "shootingPctg": 0.0571,
-     "shotsRank": 15
+     "shotsRank": 16
     },
     "Outside R": {
      "sog": 35,
@@ -2984,46 +2984,46 @@
     "all": {
      "offensiveZonePctg": 0.407847,
      "offensiveZoneRank": 18,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1718742,
      "neutralZoneRank": 31,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4202788,
      "defensiveZoneRank": 27,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.406374,
      "offensiveZoneRank": 18,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1803664,
      "neutralZoneRank": 26,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4132596,
      "defensiveZoneRank": 25,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5876626,
      "offensiveZoneRank": 20,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1272079,
      "neutralZoneRank": 32,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2851295,
      "defensiveZoneRank": 26,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2351317,
      "offensiveZoneRank": 29,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1249605,
      "neutralZoneRank": 31,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6399078,
      "defensiveZoneRank": 31,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -3040,7 +3040,7 @@
     "burstsOver20": {
      "value": 574,
      "rank": 10,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 18,
@@ -3055,7 +3055,7 @@
     "total": {
      "value": 1693.5961,
      "rank": 22,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -3139,75 +3139,75 @@
   },
   "EDM": {
    "id": 22,
-   "gamesPlayed": 26,
+   "gamesPlayed": 27,
    "wins": 17,
-   "losses": 5,
+   "losses": 6,
    "otLosses": 4,
    "points": 38,
    "shots": {
     "all": {
-     "shots": 640,
-     "shotsRank": 19,
-     "shotsLeagueAvg": 658.2813,
-     "shootingPctg": 0.1563,
+     "shots": 664,
+     "shotsRank": 14,
+     "shotsLeagueAvg": 659.8438,
+     "shootingPctg": 0.1551,
      "shootingPctgRank": 1,
-     "shootingPctgLeagueAvg": 0.1149,
-     "goals": 100,
+     "shootingPctgLeagueAvg": 0.115,
+     "goals": 103,
      "goalsRank": 1,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
-     "shots": 172,
-     "shotsRank": 23,
-     "shotsLeagueAvg": 185.2813,
-     "shootingPctg": 0.2674,
+     "shots": 176,
+     "shotsRank": 20,
+     "shotsLeagueAvg": 185.5625,
+     "shootingPctg": 0.2784,
      "shootingPctgRank": 1,
-     "shootingPctgLeagueAvg": 0.1995,
-     "goals": 46,
-     "goalsRank": 4,
-     "goalsLeagueAvg": 36.9688
+     "shootingPctgLeagueAvg": 0.2001,
+     "goals": 49,
+     "goalsRank": 1,
+     "goalsLeagueAvg": 37.125
     },
     "long": {
-     "shots": 132,
-     "shotsRank": 15,
-     "shotsLeagueAvg": 131.6875,
-     "shootingPctg": 0.0606,
-     "shootingPctgRank": 4,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shots": 137,
+     "shotsRank": 12,
+     "shotsLeagueAvg": 132.0938,
+     "shootingPctg": 0.0584,
+     "shootingPctgRank": 5,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 8,
      "goalsRank": 5,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
-     "shots": 189,
-     "shotsRank": 20,
-     "shotsLeagueAvg": 194.3438,
-     "shootingPctg": 0.164,
+     "shots": 194,
+     "shotsRank": 18,
+     "shotsLeagueAvg": 194.8125,
+     "shootingPctg": 0.1598,
      "shootingPctgRank": 1,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 31,
      "goalsRank": 2,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
     "Behind the Net": {
-     "sog": 11,
+     "sog": 12,
      "goals": 1,
-     "shootingPctg": 0.0909,
-     "shotsRank": 2
+     "shootingPctg": 0.0833,
+     "shotsRank": 1
     },
     "Beyond Red Line": {
-     "sog": 20,
+     "sog": 21,
      "goals": 2,
-     "shootingPctg": 0.1,
-     "shotsRank": 16
+     "shootingPctg": 0.0952,
+     "shotsRank": 12
     },
     "Center Point": {
-     "sog": 41,
+     "sog": 42,
      "goals": 4,
-     "shootingPctg": 0.0976,
-     "shotsRank": 28
+     "shootingPctg": 0.0952,
+     "shotsRank": 26
     },
     "Crease": {
      "sog": 23,
@@ -3216,40 +3216,40 @@
      "shotsRank": 14
     },
     "High Slot": {
-     "sog": 58,
+     "sog": 61,
      "goals": 9,
-     "shootingPctg": 0.1552,
-     "shotsRank": 22
+     "shootingPctg": 0.1475,
+     "shotsRank": 18
     },
     "L Circle": {
-     "sog": 64,
+     "sog": 65,
      "goals": 10,
-     "shootingPctg": 0.1563,
-     "shotsRank": 17
+     "shootingPctg": 0.1538,
+     "shotsRank": 16
     },
     "L Corner": {
-     "sog": 3,
+     "sog": 4,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 3
+     "shotsRank": 1
     },
     "L Net Side": {
-     "sog": 11,
+     "sog": 12,
      "goals": 2,
-     "shootingPctg": 0.1818,
+     "shootingPctg": 0.1667,
      "shotsRank": 27
     },
     "L Point": {
-     "sog": 34,
+     "sog": 35,
      "goals": 2,
-     "shootingPctg": 0.0588,
-     "shotsRank": 25
+     "shootingPctg": 0.0571,
+     "shotsRank": 23
     },
     "Low Slot": {
-     "sog": 149,
-     "goals": 38,
-     "shootingPctg": 0.255,
-     "shotsRank": 23
+     "sog": 153,
+     "goals": 41,
+     "shootingPctg": 0.268,
+     "shotsRank": 20
     },
     "Offensive Neutral Zone": {
      "sog": 20,
@@ -3258,22 +3258,22 @@
      "shotsRank": 5
     },
     "Outside L": {
-     "sog": 32,
+     "sog": 37,
      "goals": 2,
-     "shootingPctg": 0.0625,
-     "shotsRank": 22
+     "shootingPctg": 0.0541,
+     "shotsRank": 13
     },
     "Outside R": {
-     "sog": 33,
+     "sog": 34,
      "goals": 1,
-     "shootingPctg": 0.0303,
-     "shotsRank": 20
+     "shootingPctg": 0.0294,
+     "shotsRank": 19
     },
     "R Circle": {
-     "sog": 67,
+     "sog": 68,
      "goals": 12,
-     "shootingPctg": 0.1791,
-     "shotsRank": 14
+     "shootingPctg": 0.1765,
+     "shotsRank": 13
     },
     "R Corner": {
      "sog": 1,
@@ -3288,62 +3288,62 @@
      "shotsRank": 14
     },
     "R Point": {
-     "sog": 57,
+     "sog": 60,
      "goals": 2,
-     "shootingPctg": 0.0351,
-     "shotsRank": 4
+     "shootingPctg": 0.0333,
+     "shotsRank": 2
     }
    },
    "zones": {
     "all": {
-     "offensiveZonePctg": 0.4142548,
-     "offensiveZoneRank": 12,
-     "offensiveZoneLeagueAvg": 0.4207203,
-     "neutralZonePctg": 0.1750053,
+     "offensiveZonePctg": 0.4149742,
+     "offensiveZoneRank": 11,
+     "offensiveZoneLeagueAvg": 0.413243,
+     "neutralZonePctg": 0.1749508,
      "neutralZoneRank": 26,
-     "neutralZoneLeagueAvg": 0.1585593,
-     "defensiveZonePctg": 0.4107398,
-     "defensiveZoneRank": 15,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "neutralZoneLeagueAvg": 0.1735139,
+     "defensiveZonePctg": 0.410075,
+     "defensiveZoneRank": 13,
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
-     "offensiveZonePctg": 0.4075694,
-     "offensiveZoneRank": 17,
-     "offensiveZoneLeagueAvg": 0.4151951,
-     "neutralZonePctg": 0.180353,
+     "offensiveZonePctg": 0.4085683,
+     "offensiveZoneRank": 16,
+     "offensiveZoneLeagueAvg": 0.4136398,
+     "neutralZonePctg": 0.1800531,
      "neutralZoneRank": 27,
-     "neutralZoneLeagueAvg": 0.1696098,
-     "defensiveZonePctg": 0.4120776,
-     "defensiveZoneRank": 22,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "neutralZoneLeagueAvg": 0.1727203,
+     "defensiveZonePctg": 0.4113787,
+     "defensiveZoneRank": 21,
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
-     "offensiveZonePctg": 0.6110122,
+     "offensiveZonePctg": 0.6114759,
      "offensiveZoneRank": 4,
-     "offensiveZoneLeagueAvg": 0.6308414,
-     "neutralZonePctg": 0.1363228,
+     "offensiveZoneLeagueAvg": 0.5093757,
+     "neutralZonePctg": 0.1362612,
      "neutralZoneRank": 24,
-     "neutralZoneLeagueAvg": 0.1166385,
-     "defensiveZonePctg": 0.252665,
+     "neutralZoneLeagueAvg": 0.1802498,
+     "defensiveZonePctg": 0.2522629,
      "defensiveZoneRank": 6,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
-     "offensiveZonePctg": 0.2928346,
-     "offensiveZoneRank": 4,
-     "offensiveZoneLeagueAvg": 0.2525201,
-     "neutralZonePctg": 0.1605255,
+     "offensiveZonePctg": 0.2945509,
+     "offensiveZoneRank": 3,
+     "offensiveZoneLeagueAvg": 0.3103744,
+     "neutralZonePctg": 0.1617992,
      "neutralZoneRank": 1,
-     "neutralZoneLeagueAvg": 0.1166385,
-     "defensiveZonePctg": 0.5466398,
+     "neutralZoneLeagueAvg": 0.1802498,
+     "defensiveZonePctg": 0.5436499,
      "defensiveZoneRank": 3,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
     "shotAttemptsOver90": {
-     "value": 27,
-     "rank": 4,
+     "value": 29,
+     "rank": 2,
      "leagueAvg": null
     },
     "topShotSpeed": {
@@ -3352,12 +3352,12 @@
      "leagueAvg": 155.8765
     },
     "burstsOver20": {
-     "value": 866,
+     "value": 897,
      "rank": 1,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
-     "value": 99,
+     "value": 101,
      "rank": 1,
      "leagueAvg": null
     },
@@ -3367,25 +3367,18 @@
      "leagueAvg": 37.591
     },
     "total": {
-     "value": 1920.7438,
+     "value": 1996.4304,
      "rank": 1,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -4.730769,
+    "shotAttemptDifferential": -4.185185,
     "shotAttemptDifferentialRank": 26,
-    "sogDifferential": -2.230769,
+    "sogDifferential": -2.259259,
     "sogDifferentialRank": 24
    },
    "last10": [
-    {
-     "id": "2026020260",
-     "date": "2026-11-05",
-     "home": "EDM",
-     "away": "ANA",
-     "km": 70.3705
-    },
     {
      "id": "2026020276",
      "date": "2026-11-07",
@@ -3448,6 +3441,13 @@
      "home": "STL",
      "away": "EDM",
      "km": 78.5087
+    },
+    {
+     "id": "2026020385",
+     "date": "2026-11-24",
+     "home": "EDM",
+     "away": "VGK",
+     "km": 75.6901
     }
    ]
   },
@@ -3462,46 +3462,46 @@
     "all": {
      "shots": 695,
      "shotsRank": 8,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1094,
      "shootingPctgRank": 24,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 76,
      "goalsRank": 15,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 205,
      "shotsRank": 8,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1805,
      "shootingPctgRank": 24,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 37,
      "goalsRank": 17,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 128,
      "shotsRank": 18,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0391,
      "shootingPctgRank": 15,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 5,
-     "goalsRank": 15,
-     "goalsLeagueAvg": 5.4375
+     "goalsRank": 16,
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 196,
      "shotsRank": 16,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1378,
      "shootingPctgRank": 10,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 27,
      "goalsRank": 9,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -3551,7 +3551,7 @@
      "sog": 17,
      "goals": 2,
      "shootingPctg": 0.1176,
-     "shotsRank": 15
+     "shotsRank": 16
     },
     "L Point": {
      "sog": 44,
@@ -3563,7 +3563,7 @@
      "sog": 186,
      "goals": 31,
      "shootingPctg": 0.1667,
-     "shotsRank": 8
+     "shotsRank": 7
     },
     "Offensive Neutral Zone": {
      "sog": 18,
@@ -3611,46 +3611,46 @@
     "all": {
      "offensiveZonePctg": 0.4362253,
      "offensiveZoneRank": 2,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1767274,
      "neutralZoneRank": 23,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.3870473,
      "defensiveZoneRank": 2,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4316405,
      "offensiveZoneRank": 2,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1858645,
      "neutralZoneRank": 19,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.3824951,
      "defensiveZoneRank": 2,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6087694,
      "offensiveZoneRank": 6,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1311699,
      "neutralZoneRank": 30,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2600607,
      "defensiveZoneRank": 14,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2938923,
-     "offensiveZoneRank": 3,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneRank": 4,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1509372,
      "neutralZoneRank": 11,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5551705,
      "defensiveZoneRank": 4,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -3667,7 +3667,7 @@
     "burstsOver20": {
      "value": 399,
      "rank": 31,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 5,
@@ -3682,7 +3682,7 @@
     "total": {
      "value": 1756.738,
      "rank": 19,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -3775,46 +3775,46 @@
     "all": {
      "shots": 599,
      "shotsRank": 26,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.0985,
      "shootingPctgRank": 28,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 59,
      "goalsRank": 30,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 173,
-     "shotsRank": 22,
-     "shotsLeagueAvg": 185.2813,
+     "shotsRank": 23,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1445,
      "shootingPctgRank": 30,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 25,
      "goalsRank": 29,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 125,
      "shotsRank": 23,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.04,
      "shootingPctgRank": 14,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 5,
-     "goalsRank": 15,
-     "goalsLeagueAvg": 5.4375
+     "goalsRank": 16,
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 181,
      "shotsRank": 22,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1105,
      "shootingPctgRank": 25,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 20,
      "goalsRank": 23,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -3834,7 +3834,7 @@
      "sog": 41,
      "goals": 3,
      "shootingPctg": 0.0732,
-     "shotsRank": 28
+     "shotsRank": 29
     },
     "Crease": {
      "sog": 16,
@@ -3924,46 +3924,46 @@
     "all": {
      "offensiveZonePctg": 0.4048884,
      "offensiveZoneRank": 23,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1805835,
      "neutralZoneRank": 12,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4145281,
      "defensiveZoneRank": 21,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3992993,
      "offensiveZoneRank": 26,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1863629,
      "neutralZoneRank": 16,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4143378,
      "defensiveZoneRank": 26,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6077751,
      "offensiveZoneRank": 8,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1514733,
      "neutralZoneRank": 10,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2407516,
      "defensiveZoneRank": 2,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2572777,
      "offensiveZoneRank": 21,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.149081,
      "neutralZoneRank": 14,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5936413,
      "defensiveZoneRank": 19,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -3980,7 +3980,7 @@
     "burstsOver20": {
      "value": 472,
      "rank": 23,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 27,
@@ -3995,11 +3995,11 @@
     "total": {
      "value": 1602.4605,
      "rank": 30,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 1.954545,
+    "shotAttemptDifferential": 1.909091,
     "shotAttemptDifferentialRank": 10,
     "sogDifferential": -0.409091,
     "sogDifferentialRank": 15
@@ -4086,48 +4086,48 @@
    "points": 41,
    "shots": {
     "all": {
-     "shots": 753,
-     "shotsRank": 3,
-     "shotsLeagueAvg": 658.2813,
-     "shootingPctg": 0.1262,
-     "shootingPctgRank": 6,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shots": 754,
+     "shotsRank": 4,
+     "shotsLeagueAvg": 659.8438,
+     "shootingPctg": 0.126,
+     "shootingPctgRank": 7,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 95,
      "goalsRank": 3,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
-     "shots": 203,
+     "shots": 204,
      "shotsRank": 9,
-     "shotsLeagueAvg": 185.2813,
-     "shootingPctg": 0.202,
+     "shotsLeagueAvg": 185.5625,
+     "shootingPctg": 0.201,
      "shootingPctgRank": 17,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 41,
      "goalsRank": 10,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 153,
      "shotsRank": 6,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0719,
      "shootingPctgRank": 3,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 11,
      "goalsRank": 1,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 192,
-     "shotsRank": 18,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 19,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1563,
      "shootingPctgRank": 2,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 30,
      "goalsRank": 3,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -4186,9 +4186,9 @@
      "shotsRank": 15
     },
     "Low Slot": {
-     "sog": 172,
+     "sog": 173,
      "goals": 36,
-     "shootingPctg": 0.2093,
+     "shootingPctg": 0.2081,
      "shotsRank": 10
     },
     "Offensive Neutral Zone": {
@@ -4213,7 +4213,7 @@
      "sog": 67,
      "goals": 6,
      "shootingPctg": 0.0896,
-     "shotsRank": 14
+     "shotsRank": 15
     },
     "R Corner": {
      "sog": 1,
@@ -4238,46 +4238,46 @@
     "all": {
      "offensiveZonePctg": 0.4170194,
      "offensiveZoneRank": 7,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1728886,
      "neutralZoneRank": 28,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.410092,
-     "defensiveZoneRank": 13,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneRank": 14,
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4133057,
      "offensiveZoneRank": 8,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1782882,
      "neutralZoneRank": 29,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4084061,
      "defensiveZoneRank": 17,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6038081,
      "offensiveZoneRank": 10,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1520336,
-     "neutralZoneRank": 8,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneRank": 9,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2441584,
      "defensiveZoneRank": 4,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2550312,
      "offensiveZoneRank": 22,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1426368,
      "neutralZoneRank": 18,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6023319,
      "defensiveZoneRank": 22,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -4294,7 +4294,7 @@
     "burstsOver20": {
      "value": 418,
      "rank": 29,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 12,
@@ -4308,14 +4308,14 @@
     },
     "total": {
      "value": 1895.6219,
-     "rank": 4,
-     "leagueAvg": 1756.7922
+     "rank": 5,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
     "shotAttemptDifferential": 1.346154,
     "shotAttemptDifferentialRank": 11,
-    "sogDifferential": 2.884615,
+    "sogDifferential": 2.923077,
     "sogDifferentialRank": 7
    },
    "last10": [
@@ -4402,46 +4402,46 @@
     "all": {
      "shots": 685,
      "shotsRank": 11,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1109,
      "shootingPctgRank": 23,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 76,
      "goalsRank": 15,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 176,
      "shotsRank": 20,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1989,
      "shootingPctgRank": 19,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 35,
      "goalsRank": 20,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 132,
-     "shotsRank": 15,
-     "shotsLeagueAvg": 131.6875,
+     "shotsRank": 16,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0303,
      "shootingPctgRank": 22,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 202,
      "shotsRank": 12,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1188,
      "shootingPctgRank": 19,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 24,
      "goalsRank": 16,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -4473,7 +4473,7 @@
      "sog": 59,
      "goals": 12,
      "shootingPctg": 0.2034,
-     "shotsRank": 21
+     "shotsRank": 22
     },
     "L Circle": {
      "sog": 76,
@@ -4503,7 +4503,7 @@
      "sog": 152,
      "goals": 30,
      "shootingPctg": 0.1974,
-     "shotsRank": 21
+     "shotsRank": 22
     },
     "Offensive Neutral Zone": {
      "sog": 15,
@@ -4527,7 +4527,7 @@
      "sog": 67,
      "goals": 7,
      "shootingPctg": 0.1045,
-     "shotsRank": 14
+     "shotsRank": 15
     },
     "R Corner": {
      "sog": 2,
@@ -4552,46 +4552,46 @@
     "all": {
      "offensiveZonePctg": 0.4119473,
      "offensiveZoneRank": 14,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.172547,
      "neutralZoneRank": 30,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4155058,
      "defensiveZoneRank": 23,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.413009,
      "offensiveZoneRank": 9,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1766012,
      "neutralZoneRank": 32,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4103899,
      "defensiveZoneRank": 20,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.564873,
      "offensiveZoneRank": 27,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1576953,
      "neutralZoneRank": 3,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2774317,
      "defensiveZoneRank": 24,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2718535,
      "offensiveZoneRank": 11,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1504359,
      "neutralZoneRank": 12,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5777106,
      "defensiveZoneRank": 11,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -4608,7 +4608,7 @@
     "burstsOver20": {
      "value": 649,
      "rank": 5,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 21,
@@ -4623,11 +4623,11 @@
     "total": {
      "value": 1812.6494,
      "rank": 12,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 1.24,
+    "shotAttemptDifferential": 1.28,
     "shotAttemptDifferentialRank": 12,
     "sogDifferential": -0.08,
     "sogDifferentialRank": 14
@@ -4716,46 +4716,46 @@
     "all": {
      "shots": 790,
      "shotsRank": 2,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1139,
-     "shootingPctgRank": 16,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgRank": 17,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 90,
      "goalsRank": 4,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 229,
      "shotsRank": 1,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2052,
      "shootingPctgRank": 15,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 47,
-     "goalsRank": 2,
-     "goalsLeagueAvg": 36.9688
+     "goalsRank": 4,
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 156,
      "shotsRank": 3,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0385,
      "shootingPctgRank": 16,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 6,
      "goalsRank": 10,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 221,
      "shotsRank": 4,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1131,
      "shootingPctgRank": 23,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 25,
      "goalsRank": 12,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -4763,7 +4763,7 @@
      "sog": 11,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 2
+     "shotsRank": 3
     },
     "Beyond Red Line": {
      "sog": 12,
@@ -4775,7 +4775,7 @@
      "sog": 59,
      "goals": 1,
      "shootingPctg": 0.0169,
-     "shotsRank": 6
+     "shotsRank": 7
     },
     "Crease": {
      "sog": 24,
@@ -4864,47 +4864,47 @@
    "zones": {
     "all": {
      "offensiveZonePctg": 0.4147564,
-     "offensiveZoneRank": 11,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneRank": 12,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1806076,
      "neutralZoneRank": 11,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4046361,
      "defensiveZoneRank": 9,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4044899,
      "offensiveZoneRank": 22,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1865415,
      "neutralZoneRank": 15,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4089685,
      "defensiveZoneRank": 18,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6242548,
      "offensiveZoneRank": 2,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1465617,
      "neutralZoneRank": 14,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2291836,
      "defensiveZoneRank": 1,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2455325,
      "offensiveZoneRank": 26,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1492061,
      "neutralZoneRank": 13,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6052614,
      "defensiveZoneRank": 23,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -4921,7 +4921,7 @@
     "burstsOver20": {
      "value": 564,
      "rank": 12,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 18,
@@ -4936,7 +4936,7 @@
     "total": {
      "value": 1790.6336,
      "rank": 14,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -5029,46 +5029,46 @@
     "all": {
      "shots": 619,
      "shotsRank": 23,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1115,
      "shootingPctgRank": 22,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 69,
      "goalsRank": 21,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 189,
      "shotsRank": 14,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1905,
      "shootingPctgRank": 23,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 36,
      "goalsRank": 19,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 104,
      "shotsRank": 31,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0192,
      "shootingPctgRank": 31,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 2,
      "goalsRank": 30,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 171,
      "shotsRank": 27,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.0994,
      "shootingPctgRank": 28,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 17,
      "goalsRank": 30,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -5154,7 +5154,7 @@
      "sog": 71,
      "goals": 6,
      "shootingPctg": 0.0845,
-     "shotsRank": 6
+     "shotsRank": 7
     },
     "R Corner": {
      "sog": 1,
@@ -5179,46 +5179,46 @@
     "all": {
      "offensiveZonePctg": 0.4048673,
      "offensiveZoneRank": 24,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1825664,
      "neutralZoneRank": 4,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4125664,
      "defensiveZoneRank": 18,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.404967,
      "offensiveZoneRank": 20,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.187762,
      "neutralZoneRank": 6,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.407271,
      "defensiveZoneRank": 14,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.544356,
      "offensiveZoneRank": 32,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1573247,
      "neutralZoneRank": 4,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2983193,
      "defensiveZoneRank": 31,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2573958,
      "offensiveZoneRank": 20,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1528164,
      "neutralZoneRank": 8,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5897878,
      "defensiveZoneRank": 17,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -5235,7 +5235,7 @@
     "burstsOver20": {
      "value": 549,
      "rank": 16,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 27,
@@ -5250,7 +5250,7 @@
     "total": {
      "value": 1702.6719,
      "rank": 21,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -5343,46 +5343,46 @@
     "all": {
      "shots": 596,
      "shotsRank": 28,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1208,
      "shootingPctgRank": 11,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 72,
      "goalsRank": 19,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 164,
      "shotsRank": 27,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2317,
      "shootingPctgRank": 6,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 38,
      "goalsRank": 16,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 128,
      "shotsRank": 18,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0234,
      "shootingPctgRank": 29,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 3,
      "goalsRank": 27,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 181,
      "shotsRank": 22,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1381,
-     "shootingPctgRank": 8,
+     "shootingPctgRank": 9,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 25,
      "goalsRank": 12,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -5491,46 +5491,46 @@
     "all": {
      "offensiveZonePctg": 0.4097789,
      "offensiveZoneRank": 15,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.181003,
      "neutralZoneRank": 8,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4092181,
      "defensiveZoneRank": 11,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4051195,
      "offensiveZoneRank": 19,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1870869,
      "neutralZoneRank": 10,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4077936,
      "defensiveZoneRank": 15,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5905953,
-     "offensiveZoneRank": 18,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneRank": 17,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1539648,
      "neutralZoneRank": 7,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2554399,
-     "defensiveZoneRank": 10,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneRank": 9,
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2904231,
      "offensiveZoneRank": 5,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.141014,
      "neutralZoneRank": 21,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5685629,
      "defensiveZoneRank": 6,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -5547,7 +5547,7 @@
     "burstsOver20": {
      "value": 547,
      "rank": 17,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 27,
@@ -5562,11 +5562,11 @@
     "total": {
      "value": 1719.138,
      "rank": 20,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -3.695652,
+    "shotAttemptDifferential": -3.652174,
     "shotAttemptDifferentialRank": 22,
     "sogDifferential": -2.652174,
     "sogDifferentialRank": 25
@@ -5655,46 +5655,46 @@
     "all": {
      "shots": 598,
      "shotsRank": 27,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1154,
      "shootingPctgRank": 15,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 69,
      "goalsRank": 21,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 198,
      "shotsRank": 10,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1717,
      "shootingPctgRank": 27,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 34,
      "goalsRank": 22,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 124,
      "shotsRank": 24,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0726,
      "shootingPctgRank": 2,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 9,
      "goalsRank": 3,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 152,
      "shotsRank": 32,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.125,
      "shootingPctgRank": 18,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 19,
      "goalsRank": 27,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -5805,46 +5805,46 @@
     "all": {
      "offensiveZonePctg": 0.4130927,
      "offensiveZoneRank": 13,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1726791,
      "neutralZoneRank": 29,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4142282,
      "defensiveZoneRank": 20,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4086113,
      "offensiveZoneRank": 15,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.179658,
      "neutralZoneRank": 28,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4117307,
-     "defensiveZoneRank": 21,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneRank": 22,
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6183372,
      "offensiveZoneRank": 3,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1277276,
      "neutralZoneRank": 31,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2539352,
-     "defensiveZoneRank": 8,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneRank": 7,
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2758441,
      "offensiveZoneRank": 9,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1463411,
      "neutralZoneRank": 15,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5778147,
      "defensiveZoneRank": 12,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -5861,7 +5861,7 @@
     "burstsOver20": {
      "value": 438,
      "rank": 28,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 19,
@@ -5876,7 +5876,7 @@
     "total": {
      "value": 1629.3267,
      "rank": 28,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -5968,47 +5968,47 @@
    "shots": {
     "all": {
      "shots": 662,
-     "shotsRank": 14,
-     "shotsLeagueAvg": 658.2813,
+     "shotsRank": 15,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1193,
      "shootingPctgRank": 12,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 79,
      "goalsRank": 13,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 189,
      "shotsRank": 14,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2222,
      "shootingPctgRank": 8,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 42,
      "goalsRank": 9,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 112,
      "shotsRank": 26,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0268,
      "shootingPctgRank": 27,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 3,
      "goalsRank": 27,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 205,
-     "shotsRank": 9,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 10,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1073,
      "shootingPctgRank": 26,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 22,
      "goalsRank": 21,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -6046,7 +6046,7 @@
      "sog": 64,
      "goals": 3,
      "shootingPctg": 0.0469,
-     "shotsRank": 17
+     "shotsRank": 18
     },
     "L Corner": {
      "sog": 1,
@@ -6119,46 +6119,46 @@
     "all": {
      "offensiveZonePctg": 0.4315642,
      "offensiveZoneRank": 3,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1738627,
      "neutralZoneRank": 27,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.3945731,
      "defensiveZoneRank": 3,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4294303,
      "offensiveZoneRank": 3,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1782507,
      "neutralZoneRank": 30,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.3923189,
      "defensiveZoneRank": 3,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6010812,
      "offensiveZoneRank": 11,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1498919,
      "neutralZoneRank": 12,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2490269,
      "defensiveZoneRank": 5,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2660443,
      "offensiveZoneRank": 16,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1594899,
      "neutralZoneRank": 3,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5744658,
      "defensiveZoneRank": 10,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -6175,7 +6175,7 @@
     "burstsOver20": {
      "value": 553,
      "rank": 15,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 22,
@@ -6190,13 +6190,13 @@
     "total": {
      "value": 1803.6075,
      "rank": 13,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 2.36,
-    "shotAttemptDifferentialRank": 9,
-    "sogDifferential": 0.36,
+    "shotAttemptDifferential": 2.4,
+    "shotAttemptDifferentialRank": 8,
+    "sogDifferential": 0.4,
     "sogDifferentialRank": 12
    },
    "last10": [
@@ -6283,46 +6283,46 @@
     "all": {
      "shots": 637,
      "shotsRank": 20,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1052,
      "shootingPctgRank": 26,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 67,
      "goalsRank": 25,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 165,
      "shotsRank": 26,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2121,
      "shootingPctgRank": 10,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 35,
      "goalsRank": 20,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 127,
      "shotsRank": 20,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0315,
-     "shootingPctgRank": 20,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgRank": 21,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 190,
-     "shotsRank": 19,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 20,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.0947,
      "shootingPctgRank": 29,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 18,
      "goalsRank": 29,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -6354,13 +6354,13 @@
      "sog": 60,
      "goals": 7,
      "shootingPctg": 0.1167,
-     "shotsRank": 19
+     "shotsRank": 20
     },
     "L Circle": {
      "sog": 66,
      "goals": 6,
      "shootingPctg": 0.0909,
-     "shotsRank": 14
+     "shotsRank": 15
     },
     "L Corner": {
      "sog": 1,
@@ -6433,46 +6433,46 @@
     "all": {
      "offensiveZonePctg": 0.3889665,
      "offensiveZoneRank": 31,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1777551,
      "neutralZoneRank": 21,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4332784,
      "defensiveZoneRank": 31,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3826412,
      "offensiveZoneRank": 30,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1841563,
      "neutralZoneRank": 24,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4332025,
      "defensiveZoneRank": 31,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5562876,
      "offensiveZoneRank": 29,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1548227,
      "neutralZoneRank": 6,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2888897,
      "defensiveZoneRank": 29,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2779037,
      "offensiveZoneRank": 8,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1374243,
      "neutralZoneRank": 25,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5846721,
      "defensiveZoneRank": 15,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -6489,7 +6489,7 @@
     "burstsOver20": {
      "value": 450,
      "rank": 26,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 19,
@@ -6503,8 +6503,8 @@
     },
     "total": {
      "value": 1896.089,
-     "rank": 3,
-     "leagueAvg": 1756.7922
+     "rank": 4,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -6597,46 +6597,46 @@
     "all": {
      "shots": 637,
      "shotsRank": 20,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.102,
      "shootingPctgRank": 27,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 65,
      "goalsRank": 26,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 209,
      "shotsRank": 6,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.177,
      "shootingPctgRank": 25,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 37,
      "goalsRank": 17,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 138,
      "shotsRank": 11,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.029,
      "shootingPctgRank": 25,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 170,
      "shotsRank": 29,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1176,
      "shootingPctgRank": 20,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 20,
      "goalsRank": 23,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -6710,7 +6710,7 @@
      "sog": 34,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 17
+     "shotsRank": 18
     },
     "Outside R": {
      "sog": 24,
@@ -6746,46 +6746,46 @@
     "all": {
      "offensiveZonePctg": 0.4163492,
      "offensiveZoneRank": 8,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1790566,
      "neutralZoneRank": 18,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4045942,
      "defensiveZoneRank": 8,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4151595,
-     "offensiveZoneRank": 7,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneRank": 6,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1869177,
      "neutralZoneRank": 13,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.3979228,
      "defensiveZoneRank": 6,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6081794,
      "offensiveZoneRank": 7,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1353094,
      "neutralZoneRank": 25,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2565112,
-     "defensiveZoneRank": 12,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneRank": 11,
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2445932,
      "offensiveZoneRank": 27,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1364506,
      "neutralZoneRank": 26,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6189561,
      "defensiveZoneRank": 27,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -6802,7 +6802,7 @@
     "burstsOver20": {
      "value": 579,
      "rank": 9,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 29,
@@ -6817,7 +6817,7 @@
     "total": {
      "value": 1682.8176,
      "rank": 23,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -6910,46 +6910,46 @@
     "all": {
      "shots": 531,
      "shotsRank": 32,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1281,
      "shootingPctgRank": 5,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 68,
      "goalsRank": 23,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 143,
      "shotsRank": 32,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2238,
      "shootingPctgRank": 7,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 32,
      "goalsRank": 25,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 108,
      "shotsRank": 27,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0556,
      "shootingPctgRank": 8,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 6,
      "goalsRank": 10,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 168,
      "shotsRank": 30,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1429,
      "shootingPctgRank": 5,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 24,
      "goalsRank": 16,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -7059,46 +7059,46 @@
     "all": {
      "offensiveZonePctg": 0.389985,
      "offensiveZoneRank": 30,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1779927,
      "neutralZoneRank": 19,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4320222,
      "defensiveZoneRank": 30,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3821976,
      "offensiveZoneRank": 32,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1855127,
      "neutralZoneRank": 20,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4322896,
      "defensiveZoneRank": 30,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5989757,
      "offensiveZoneRank": 12,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1366857,
      "neutralZoneRank": 23,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2643385,
      "defensiveZoneRank": 16,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2338353,
      "offensiveZoneRank": 31,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1330663,
      "neutralZoneRank": 27,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6330985,
      "defensiveZoneRank": 29,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -7114,12 +7114,12 @@
     },
     "burstsOver20": {
      "value": 521,
-     "rank": 19,
-     "leagueAvg": 543
+     "rank": 20,
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 34,
-     "rank": 7,
+     "rank": 8,
      "leagueAvg": null
     },
     "speedMax": {
@@ -7130,11 +7130,11 @@
     "total": {
      "value": 1563.4398,
      "rank": 31,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -14.809524,
+    "shotAttemptDifferential": -14.714286,
     "shotAttemptDifferentialRank": 32,
     "sogDifferential": -4.571429,
     "sogDifferentialRank": 30
@@ -7223,46 +7223,46 @@
     "all": {
      "shots": 712,
      "shotsRank": 7,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.0955,
      "shootingPctgRank": 29,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 68,
      "goalsRank": 23,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 176,
      "shotsRank": 20,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1932,
      "shootingPctgRank": 22,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 34,
      "goalsRank": 22,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 155,
      "shotsRank": 4,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0452,
      "shootingPctgRank": 13,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 7,
      "goalsRank": 8,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 240,
      "shotsRank": 2,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.0833,
      "shootingPctgRank": 31,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 20,
      "goalsRank": 23,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -7341,7 +7341,7 @@
      "sog": 37,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 12
+     "shotsRank": 13
     },
     "R Circle": {
      "sog": 86,
@@ -7372,46 +7372,46 @@
     "all": {
      "offensiveZonePctg": 0.4049873,
      "offensiveZoneRank": 22,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1753381,
      "neutralZoneRank": 25,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4196746,
      "defensiveZoneRank": 26,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3990596,
      "offensiveZoneRank": 27,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1850867,
      "neutralZoneRank": 22,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4158537,
      "defensiveZoneRank": 27,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5932607,
-     "offensiveZoneRank": 15,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneRank": 14,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1446964,
      "neutralZoneRank": 16,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2620429,
      "defensiveZoneRank": 15,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2422057,
      "offensiveZoneRank": 28,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1221842,
      "neutralZoneRank": 32,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6356101,
      "defensiveZoneRank": 30,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -7428,7 +7428,7 @@
     "burstsOver20": {
      "value": 601,
      "rank": 8,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 27,
@@ -7442,14 +7442,14 @@
     },
     "total": {
      "value": 1907.4702,
-     "rank": 2,
-     "leagueAvg": 1756.7922
+     "rank": 3,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
     "shotAttemptDifferential": -6.846154,
     "shotAttemptDifferentialRank": 29,
-    "sogDifferential": -3.230769,
+    "sogDifferential": -3.269231,
     "sogDifferentialRank": 29
    },
    "last10": [
@@ -7535,47 +7535,47 @@
    "shots": {
     "all": {
      "shots": 651,
-     "shotsRank": 16,
-     "shotsLeagueAvg": 658.2813,
+     "shotsRank": 17,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1229,
      "shootingPctgRank": 10,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 80,
      "goalsRank": 12,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 209,
      "shotsRank": 6,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.1962,
      "shootingPctgRank": 20,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 41,
      "goalsRank": 10,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 105,
      "shotsRank": 30,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0571,
      "shootingPctgRank": 7,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 6,
      "goalsRank": 10,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 198,
      "shotsRank": 14,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1162,
      "shootingPctgRank": 21,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 23,
      "goalsRank": 19,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -7686,46 +7686,46 @@
     "all": {
      "offensiveZonePctg": 0.4086486,
      "offensiveZoneRank": 17,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1811375,
      "neutralZoneRank": 6,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.410214,
-     "defensiveZoneRank": 14,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneRank": 15,
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4095809,
      "offensiveZoneRank": 13,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1880496,
      "neutralZoneRank": 5,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4023696,
      "defensiveZoneRank": 9,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5599281,
      "offensiveZoneRank": 28,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1488035,
      "neutralZoneRank": 13,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2912684,
      "defensiveZoneRank": 30,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2623391,
      "offensiveZoneRank": 17,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1378171,
      "neutralZoneRank": 24,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5998439,
      "defensiveZoneRank": 20,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -7742,7 +7742,7 @@
     "burstsOver20": {
      "value": 460,
      "rank": 25,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 24,
@@ -7757,7 +7757,7 @@
     "total": {
      "value": 1765.1112,
      "rank": 16,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -7850,46 +7850,46 @@
     "all": {
      "shots": 666,
      "shotsRank": 13,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1261,
-     "shootingPctgRank": 7,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgRank": 6,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 84,
-     "goalsRank": 7,
-     "goalsLeagueAvg": 75.6563
+     "goalsRank": 8,
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 192,
      "shotsRank": 13,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2031,
      "shootingPctgRank": 16,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 39,
      "goalsRank": 15,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 146,
      "shotsRank": 9,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0548,
      "shootingPctgRank": 10,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 8,
      "goalsRank": 5,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 200,
      "shotsRank": 13,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.135,
      "shootingPctgRank": 12,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 27,
      "goalsRank": 9,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -7921,7 +7921,7 @@
      "sog": 68,
      "goals": 15,
      "shootingPctg": 0.2206,
-     "shotsRank": 10
+     "shotsRank": 11
     },
     "L Circle": {
      "sog": 61,
@@ -7945,7 +7945,7 @@
      "sog": 34,
      "goals": 3,
      "shootingPctg": 0.0882,
-     "shotsRank": 25
+     "shotsRank": 26
     },
     "Low Slot": {
      "sog": 164,
@@ -7963,7 +7963,7 @@
      "sog": 32,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 22
+     "shotsRank": 23
     },
     "Outside R": {
      "sog": 35,
@@ -7975,7 +7975,7 @@
      "sog": 71,
      "goals": 6,
      "shootingPctg": 0.0845,
-     "shotsRank": 6
+     "shotsRank": 7
     },
     "R Corner": {
      "sog": 0,
@@ -7999,46 +7999,46 @@
     "all": {
      "offensiveZonePctg": 0.4159244,
      "offensiveZoneRank": 9,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1808212,
      "neutralZoneRank": 10,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4032544,
      "defensiveZoneRank": 7,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4109419,
      "offensiveZoneRank": 10,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1876961,
      "neutralZoneRank": 7,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.401362,
      "defensiveZoneRank": 8,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5891303,
      "offensiveZoneRank": 19,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1420174,
      "neutralZoneRank": 18,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2688523,
      "defensiveZoneRank": 19,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2457952,
      "offensiveZoneRank": 25,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1519388,
      "neutralZoneRank": 10,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.602266,
      "defensiveZoneRank": 21,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -8055,7 +8055,7 @@
     "burstsOver20": {
      "value": 565,
      "rank": 11,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 27,
@@ -8070,7 +8070,7 @@
     "total": {
      "value": 1661.399,
      "rank": 27,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -8163,46 +8163,46 @@
     "all": {
      "shots": 727,
      "shotsRank": 6,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1128,
-     "shootingPctgRank": 18,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgRank": 19,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 82,
      "goalsRank": 9,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 210,
      "shotsRank": 5,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2095,
-     "shootingPctgRank": 11,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgRank": 12,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 44,
      "goalsRank": 6,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 140,
      "shotsRank": 10,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0286,
      "shootingPctgRank": 26,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 225,
      "shotsRank": 3,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1067,
      "shootingPctgRank": 27,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 24,
      "goalsRank": 16,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -8216,7 +8216,7 @@
      "sog": 28,
      "goals": 2,
      "shootingPctg": 0.0714,
-     "shotsRank": 1
+     "shotsRank": 2
     },
     "Center Point": {
      "sog": 54,
@@ -8288,7 +8288,7 @@
      "sog": 70,
      "goals": 6,
      "shootingPctg": 0.0857,
-     "shotsRank": 8
+     "shotsRank": 9
     },
     "R Corner": {
      "sog": 1,
@@ -8313,46 +8313,46 @@
     "all": {
      "offensiveZonePctg": 0.4042398,
      "offensiveZoneRank": 25,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1773134,
      "neutralZoneRank": 22,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4184469,
      "defensiveZoneRank": 25,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4027275,
      "offensiveZoneRank": 23,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1849335,
      "neutralZoneRank": 23,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.412339,
      "defensiveZoneRank": 23,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6105893,
      "offensiveZoneRank": 5,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1334089,
      "neutralZoneRank": 27,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2560018,
-     "defensiveZoneRank": 11,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneRank": 10,
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2529107,
      "offensiveZoneRank": 23,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1383893,
      "neutralZoneRank": 23,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6087,
      "defensiveZoneRank": 24,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -8369,7 +8369,7 @@
     "burstsOver20": {
      "value": 632,
      "rank": 6,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 40,
@@ -8383,13 +8383,13 @@
     },
     "total": {
      "value": 1876.9377,
-     "rank": 5,
-     "leagueAvg": 1756.7922
+     "rank": 6,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -3.923077,
-    "shotAttemptDifferentialRank": 24,
+    "shotAttemptDifferential": -3.961538,
+    "shotAttemptDifferentialRank": 25,
     "sogDifferential": -0.807692,
     "sogDifferentialRank": 19
    },
@@ -8475,48 +8475,48 @@
    "points": 27,
    "shots": {
     "all": {
-     "shots": 730,
+     "shots": 729,
      "shotsRank": 5,
-     "shotsLeagueAvg": 658.2813,
-     "shootingPctg": 0.1123,
-     "shootingPctgRank": 19,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shotsLeagueAvg": 659.8438,
+     "shootingPctg": 0.1125,
+     "shootingPctgRank": 20,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 82,
      "goalsRank": 9,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
-     "shots": 212,
+     "shots": 211,
      "shotsRank": 4,
-     "shotsLeagueAvg": 185.2813,
-     "shootingPctg": 0.1934,
+     "shotsLeagueAvg": 185.5625,
+     "shootingPctg": 0.1943,
      "shootingPctgRank": 21,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 41,
      "goalsRank": 10,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 147,
      "shotsRank": 8,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0748,
      "shootingPctgRank": 1,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 11,
      "goalsRank": 1,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 206,
-     "shotsRank": 7,
-     "shotsLeagueAvg": 194.3438,
+     "shotsRank": 8,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.0777,
      "shootingPctgRank": 32,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 16,
      "goalsRank": 31,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -8536,7 +8536,7 @@
      "sog": 60,
      "goals": 8,
      "shootingPctg": 0.1333,
-     "shotsRank": 4
+     "shotsRank": 5
     },
     "Crease": {
      "sog": 25,
@@ -8575,10 +8575,10 @@
      "shotsRank": 5
     },
     "Low Slot": {
-     "sog": 187,
+     "sog": 186,
      "goals": 29,
-     "shootingPctg": 0.1551,
-     "shotsRank": 6
+     "shootingPctg": 0.1559,
+     "shotsRank": 7
     },
     "Offensive Neutral Zone": {
      "sog": 11,
@@ -8602,7 +8602,7 @@
      "sog": 67,
      "goals": 5,
      "shootingPctg": 0.0746,
-     "shotsRank": 14
+     "shotsRank": 15
     },
     "R Corner": {
      "sog": 2,
@@ -8626,47 +8626,47 @@
    "zones": {
     "all": {
      "offensiveZonePctg": 0.4197578,
-     "offensiveZoneRank": 6,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneRank": 5,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1779114,
      "neutralZoneRank": 20,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4023308,
      "defensiveZoneRank": 6,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4153853,
-     "offensiveZoneRank": 6,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneRank": 5,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.185446,
      "neutralZoneRank": 21,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.3991687,
      "defensiveZoneRank": 7,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.6069192,
      "offensiveZoneRank": 9,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1349254,
      "neutralZoneRank": 26,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2581554,
      "defensiveZoneRank": 13,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2673739,
      "offensiveZoneRank": 15,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1420774,
      "neutralZoneRank": 19,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.5905487,
      "defensiveZoneRank": 18,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -8683,7 +8683,7 @@
     "burstsOver20": {
      "value": 663,
      "rank": 3,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 35,
@@ -8698,13 +8698,13 @@
     "total": {
      "value": 1838.5686,
      "rank": 10,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 8.72,
+    "shotAttemptDifferential": 8.68,
     "shotAttemptDifferentialRank": 4,
-    "sogDifferential": 4.24,
+    "sogDifferential": 4.2,
     "sogDifferentialRank": 3
    },
    "last10": [
@@ -8791,46 +8791,46 @@
     "all": {
      "shots": 589,
      "shotsRank": 30,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1239,
      "shootingPctgRank": 9,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 73,
      "goalsRank": 17,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 157,
      "shotsRank": 28,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2548,
      "shootingPctgRank": 2,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 40,
      "goalsRank": 14,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 137,
      "shotsRank": 12,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0292,
      "shootingPctgRank": 24,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 4,
      "goalsRank": 19,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 177,
      "shotsRank": 26,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.113,
      "shootingPctgRank": 24,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 20,
      "goalsRank": 23,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -8850,7 +8850,7 @@
      "sog": 60,
      "goals": 1,
      "shootingPctg": 0.0167,
-     "shotsRank": 4
+     "shotsRank": 5
     },
     "Crease": {
      "sog": 15,
@@ -8904,7 +8904,7 @@
      "sog": 33,
      "goals": 2,
      "shootingPctg": 0.0606,
-     "shotsRank": 20
+     "shotsRank": 21
     },
     "Outside R": {
      "sog": 22,
@@ -8941,46 +8941,46 @@
     "all": {
      "offensiveZonePctg": 0.3879044,
      "offensiveZoneRank": 32,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1704794,
      "neutralZoneRank": 32,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4416163,
      "defensiveZoneRank": 32,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.3824635,
      "offensiveZoneRank": 31,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1774958,
      "neutralZoneRank": 31,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4400408,
      "defensiveZoneRank": 32,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5826045,
      "offensiveZoneRank": 22,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1403903,
      "neutralZoneRank": 21,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2770051,
      "defensiveZoneRank": 23,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2296512,
      "offensiveZoneRank": 32,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1283941,
      "neutralZoneRank": 29,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6419547,
      "defensiveZoneRank": 32,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -8997,7 +8997,7 @@
     "burstsOver20": {
      "value": 556,
      "rank": 13,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 31,
@@ -9011,8 +9011,8 @@
     },
     "total": {
      "value": 1859.8036,
-     "rank": 6,
-     "leagueAvg": 1756.7922
+     "rank": 7,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
@@ -9096,55 +9096,55 @@
   },
   "VGK": {
    "id": 54,
-   "gamesPlayed": 25,
-   "wins": 14,
+   "gamesPlayed": 26,
+   "wins": 15,
    "losses": 6,
    "otLosses": 5,
-   "points": 33,
+   "points": 35,
    "shots": {
     "all": {
-     "shots": 739,
-     "shotsRank": 4,
-     "shotsLeagueAvg": 658.2813,
-     "shootingPctg": 0.1123,
-     "shootingPctgRank": 20,
-     "shootingPctgLeagueAvg": 0.1149,
-     "goals": 83,
-     "goalsRank": 8,
-     "goalsLeagueAvg": 75.6563
+     "shots": 766,
+     "shotsRank": 3,
+     "shotsLeagueAvg": 659.8438,
+     "shootingPctg": 0.1149,
+     "shootingPctgRank": 16,
+     "shootingPctgLeagueAvg": 0.115,
+     "goals": 88,
+     "goalsRank": 7,
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
-     "shots": 222,
-     "shotsRank": 3,
-     "shotsLeagueAvg": 185.2813,
-     "shootingPctg": 0.2072,
-     "shootingPctgRank": 13,
-     "shootingPctgLeagueAvg": 0.1995,
-     "goals": 46,
-     "goalsRank": 4,
-     "goalsLeagueAvg": 36.9688
+     "shots": 228,
+     "shotsRank": 2,
+     "shotsLeagueAvg": 185.5625,
+     "shootingPctg": 0.2105,
+     "shootingPctgRank": 11,
+     "shootingPctgLeagueAvg": 0.2001,
+     "goals": 48,
+     "goalsRank": 2,
+     "goalsLeagueAvg": 37.125
     },
     "long": {
-     "shots": 162,
+     "shots": 170,
      "shotsRank": 2,
-     "shotsLeagueAvg": 131.6875,
-     "shootingPctg": 0.0309,
-     "shootingPctgRank": 21,
-     "shootingPctgLeagueAvg": 0.0413,
-     "goals": 5,
-     "goalsRank": 15,
-     "goalsLeagueAvg": 5.4375
+     "shotsLeagueAvg": 132.0938,
+     "shootingPctg": 0.0353,
+     "shootingPctgRank": 18,
+     "shootingPctgLeagueAvg": 0.0414,
+     "goals": 6,
+     "goalsRank": 10,
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
-     "shots": 203,
-     "shotsRank": 11,
-     "shotsLeagueAvg": 194.3438,
-     "shootingPctg": 0.1379,
-     "shootingPctgRank": 9,
+     "shots": 213,
+     "shotsRank": 6,
+     "shotsLeagueAvg": 194.8125,
+     "shootingPctg": 0.1408,
+     "shootingPctgRank": 6,
      "shootingPctgLeagueAvg": 0.1235,
-     "goals": 28,
-     "goalsRank": 6,
-     "goalsLeagueAvg": 24.0
+     "goals": 30,
+     "goalsRank": 3,
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -9152,19 +9152,19 @@
      "sog": 11,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 2
+     "shotsRank": 3
     },
     "Beyond Red Line": {
-     "sog": 28,
+     "sog": 29,
      "goals": 0,
      "shootingPctg": 0.0,
      "shotsRank": 1
     },
     "Center Point": {
-     "sog": 58,
+     "sog": 62,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 8
+     "shotsRank": 4
     },
     "Crease": {
      "sog": 27,
@@ -9173,16 +9173,16 @@
      "shotsRank": 7
     },
     "High Slot": {
-     "sog": 67,
+     "sog": 71,
      "goals": 11,
-     "shootingPctg": 0.1642,
-     "shotsRank": 11
+     "shootingPctg": 0.1549,
+     "shotsRank": 9
     },
     "L Circle": {
-     "sog": 66,
-     "goals": 9,
-     "shootingPctg": 0.1364,
-     "shotsRank": 14
+     "sog": 69,
+     "goals": 10,
+     "shootingPctg": 0.1449,
+     "shotsRank": 13
     },
     "L Corner": {
      "sog": 1,
@@ -9191,21 +9191,21 @@
      "shotsRank": 12
     },
     "L Net Side": {
-     "sog": 17,
+     "sog": 18,
      "goals": 1,
-     "shootingPctg": 0.0588,
+     "shootingPctg": 0.0556,
      "shotsRank": 15
     },
     "L Point": {
-     "sog": 51,
-     "goals": 2,
-     "shootingPctg": 0.0392,
+     "sog": 54,
+     "goals": 3,
+     "shootingPctg": 0.0556,
      "shotsRank": 3
     },
     "Low Slot": {
-     "sog": 195,
-     "goals": 35,
-     "shootingPctg": 0.1795,
+     "sog": 201,
+     "goals": 37,
+     "shootingPctg": 0.1841,
      "shotsRank": 3
     },
     "Offensive Neutral Zone": {
@@ -9221,16 +9221,16 @@
      "shotsRank": 13
     },
     "Outside R": {
-     "sog": 37,
+     "sog": 38,
      "goals": 1,
-     "shootingPctg": 0.027,
-     "shotsRank": 12
+     "shootingPctg": 0.0263,
+     "shotsRank": 10
     },
     "R Circle": {
-     "sog": 70,
-     "goals": 8,
-     "shootingPctg": 0.1143,
-     "shotsRank": 8
+     "sog": 73,
+     "goals": 9,
+     "shootingPctg": 0.1233,
+     "shotsRank": 6
     },
     "R Corner": {
      "sog": 0,
@@ -9244,56 +9244,56 @@
      "shotsRank": 26
     },
     "R Point": {
-     "sog": 53,
+     "sog": 54,
      "goals": 3,
-     "shootingPctg": 0.0566,
-     "shotsRank": 6
+     "shootingPctg": 0.0556,
+     "shotsRank": 5
     }
    },
    "zones": {
     "all": {
-     "offensiveZonePctg": 0.4207162,
-     "offensiveZoneRank": 5,
-     "offensiveZoneLeagueAvg": 0.4207203,
-     "neutralZonePctg": 0.1835517,
+     "offensiveZonePctg": 0.4196516,
+     "offensiveZoneRank": 6,
+     "offensiveZoneLeagueAvg": 0.413243,
+     "neutralZonePctg": 0.1831721,
      "neutralZoneRank": 3,
-     "neutralZoneLeagueAvg": 0.1585593,
-     "defensiveZonePctg": 0.3957321,
+     "neutralZoneLeagueAvg": 0.1735139,
+     "defensiveZonePctg": 0.3971763,
      "defensiveZoneRank": 4,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
-     "offensiveZonePctg": 0.4158965,
-     "offensiveZoneRank": 5,
-     "offensiveZoneLeagueAvg": 0.4151951,
-     "neutralZonePctg": 0.1895744,
+     "offensiveZonePctg": 0.4150412,
+     "offensiveZoneRank": 7,
+     "offensiveZoneLeagueAvg": 0.4136398,
+     "neutralZonePctg": 0.1889071,
      "neutralZoneRank": 3,
-     "neutralZoneLeagueAvg": 0.1696098,
-     "defensiveZonePctg": 0.3945291,
+     "neutralZoneLeagueAvg": 0.1727203,
+     "defensiveZonePctg": 0.3960517,
      "defensiveZoneRank": 4,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
-     "offensiveZonePctg": 0.594309,
-     "offensiveZoneRank": 13,
-     "offensiveZoneLeagueAvg": 0.6308414,
-     "neutralZonePctg": 0.1520226,
-     "neutralZoneRank": 9,
-     "neutralZoneLeagueAvg": 0.1166385,
-     "defensiveZonePctg": 0.2536685,
-     "defensiveZoneRank": 7,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "offensiveZonePctg": 0.5893336,
+     "offensiveZoneRank": 18,
+     "offensiveZoneLeagueAvg": 0.5093757,
+     "neutralZonePctg": 0.1537401,
+     "neutralZoneRank": 8,
+     "neutralZoneLeagueAvg": 0.1802498,
+     "defensiveZonePctg": 0.2569262,
+     "defensiveZoneRank": 12,
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
-     "offensiveZonePctg": 0.2731918,
+     "offensiveZonePctg": 0.2722853,
      "offensiveZoneRank": 10,
-     "offensiveZoneLeagueAvg": 0.2525201,
-     "neutralZonePctg": 0.1444819,
+     "offensiveZoneLeagueAvg": 0.3103744,
+     "neutralZonePctg": 0.1442463,
      "neutralZoneRank": 17,
-     "neutralZoneLeagueAvg": 0.1166385,
-     "defensiveZonePctg": 0.5823263,
+     "neutralZoneLeagueAvg": 0.1802498,
+     "defensiveZonePctg": 0.5834684,
      "defensiveZoneRank": 14,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -9308,13 +9308,13 @@
      "leagueAvg": 155.8765
     },
     "burstsOver20": {
-     "value": 503,
-     "rank": 21,
-     "leagueAvg": 543
+     "value": 526,
+     "rank": 19,
+     "leagueAvg": 545
     },
     "burstsOver22": {
-     "value": 34,
-     "rank": 7,
+     "value": 35,
+     "rank": 6,
      "leagueAvg": null
     },
     "speedMax": {
@@ -9323,25 +9323,18 @@
      "leagueAvg": 37.591
     },
     "total": {
-     "value": 1846.467,
-     "rank": 8,
-     "leagueAvg": 1756.7922
+     "value": 1920.8178,
+     "rank": 2,
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": 2.4,
-    "shotAttemptDifferentialRank": 8,
-    "sogDifferential": 3.88,
+    "shotAttemptDifferential": 1.923077,
+    "shotAttemptDifferentialRank": 9,
+    "sogDifferential": 3.846154,
     "sogDifferentialRank": 4
    },
    "last10": [
-    {
-     "id": "2026020232",
-     "date": "2026-11-02",
-     "home": "BOS",
-     "away": "VGK",
-     "km": 75.4677
-    },
     {
      "id": "2026020242",
      "date": "2026-11-03",
@@ -9404,6 +9397,13 @@
      "home": "WPG",
      "away": "VGK",
      "km": 75.6312
+    },
+    {
+     "id": "2026020385",
+     "date": "2026-11-24",
+     "home": "EDM",
+     "away": "VGK",
+     "km": 74.3542
     }
    ]
   },
@@ -9418,46 +9418,46 @@
     "all": {
      "shots": 671,
      "shotsRank": 12,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1162,
      "shootingPctgRank": 14,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 78,
      "goalsRank": 14,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 197,
      "shotsRank": 11,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2081,
-     "shootingPctgRank": 12,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgRank": 13,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 41,
      "goalsRank": 10,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 129,
      "shotsRank": 17,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0465,
      "shootingPctgRank": 12,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 6,
      "goalsRank": 10,
-     "goalsLeagueAvg": 5.4375
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 198,
      "shotsRank": 14,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1263,
      "shootingPctgRank": 17,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 25,
      "goalsRank": 12,
-     "goalsLeagueAvg": 24.0
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -9530,7 +9530,7 @@
      "sog": 34,
      "goals": 0,
      "shootingPctg": 0.0,
-     "shotsRank": 17
+     "shotsRank": 18
     },
     "Outside R": {
      "sog": 40,
@@ -9566,46 +9566,46 @@
     "all": {
      "offensiveZonePctg": 0.406023,
      "offensiveZoneRank": 21,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1801986,
      "neutralZoneRank": 15,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4137784,
      "defensiveZoneRank": 19,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4023753,
      "offensiveZoneRank": 24,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1881318,
      "neutralZoneRank": 4,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.4094929,
      "defensiveZoneRank": 19,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5825804,
      "offensiveZoneRank": 23,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.1386325,
      "neutralZoneRank": 22,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2787871,
      "defensiveZoneRank": 25,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.257726,
      "offensiveZoneRank": 19,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1279837,
      "neutralZoneRank": 30,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6142903,
      "defensiveZoneRank": 26,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -9622,7 +9622,7 @@
     "burstsOver20": {
      "value": 482,
      "rank": 22,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 18,
@@ -9637,13 +9637,13 @@
     "total": {
      "value": 1839.0708,
      "rank": 9,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
-    "shotAttemptDifferential": -3.96,
-    "shotAttemptDifferentialRank": 25,
-    "sogDifferential": -1.64,
+    "shotAttemptDifferential": -3.92,
+    "shotAttemptDifferentialRank": 24,
+    "sogDifferential": -1.6,
     "sogDifferentialRank": 22
    },
    "last10": [
@@ -9730,46 +9730,46 @@
     "all": {
      "shots": 608,
      "shotsRank": 24,
-     "shotsLeagueAvg": 658.2813,
+     "shotsLeagueAvg": 659.8438,
      "shootingPctg": 0.1184,
      "shootingPctgRank": 13,
-     "shootingPctgLeagueAvg": 0.1149,
+     "shootingPctgLeagueAvg": 0.115,
      "goals": 72,
      "goalsRank": 19,
-     "goalsLeagueAvg": 75.6563
+     "goalsLeagueAvg": 75.9063
     },
     "high": {
      "shots": 145,
      "shotsRank": 31,
-     "shotsLeagueAvg": 185.2813,
+     "shotsLeagueAvg": 185.5625,
      "shootingPctg": 0.2,
      "shootingPctgRank": 18,
-     "shootingPctgLeagueAvg": 0.1995,
+     "shootingPctgLeagueAvg": 0.2001,
      "goals": 29,
      "goalsRank": 27,
-     "goalsLeagueAvg": 36.9688
+     "goalsLeagueAvg": 37.125
     },
     "long": {
      "shots": 106,
      "shotsRank": 29,
-     "shotsLeagueAvg": 131.6875,
+     "shotsLeagueAvg": 132.0938,
      "shootingPctg": 0.0472,
      "shootingPctgRank": 11,
-     "shootingPctgLeagueAvg": 0.0413,
+     "shootingPctgLeagueAvg": 0.0414,
      "goals": 5,
-     "goalsRank": 15,
-     "goalsLeagueAvg": 5.4375
+     "goalsRank": 16,
+     "goalsLeagueAvg": 5.4688
     },
     "mid": {
      "shots": 218,
      "shotsRank": 5,
-     "shotsLeagueAvg": 194.3438,
+     "shotsLeagueAvg": 194.8125,
      "shootingPctg": 0.1284,
      "shootingPctgRank": 15,
      "shootingPctgLeagueAvg": 0.1235,
      "goals": 28,
-     "goalsRank": 6,
-     "goalsLeagueAvg": 24.0
+     "goalsRank": 7,
+     "goalsLeagueAvg": 24.0625
     }
    },
    "areas": {
@@ -9807,7 +9807,7 @@
      "sog": 68,
      "goals": 6,
      "shootingPctg": 0.0882,
-     "shotsRank": 13
+     "shotsRank": 14
     },
     "L Corner": {
      "sog": 0,
@@ -9842,7 +9842,7 @@
      "sog": 32,
      "goals": 2,
      "shootingPctg": 0.0625,
-     "shotsRank": 22
+     "shotsRank": 23
     },
     "Outside R": {
      "sog": 28,
@@ -9878,46 +9878,46 @@
     "all": {
      "offensiveZonePctg": 0.4042157,
      "offensiveZoneRank": 26,
-     "offensiveZoneLeagueAvg": 0.4207203,
+     "offensiveZoneLeagueAvg": 0.413243,
      "neutralZonePctg": 0.1803311,
      "neutralZoneRank": 14,
-     "neutralZoneLeagueAvg": 0.1585593,
+     "neutralZoneLeagueAvg": 0.1735139,
      "defensiveZonePctg": 0.4154533,
      "defensiveZoneRank": 22,
-     "defensiveZoneLeagueAvg": 0.4207203
+     "defensiveZoneLeagueAvg": 0.413243
     },
     "es": {
      "offensiveZonePctg": 0.4093607,
      "offensiveZoneRank": 14,
-     "offensiveZoneLeagueAvg": 0.4151951,
+     "offensiveZoneLeagueAvg": 0.4136398,
      "neutralZonePctg": 0.1876683,
      "neutralZoneRank": 8,
-     "neutralZoneLeagueAvg": 0.1696098,
+     "neutralZoneLeagueAvg": 0.1727203,
      "defensiveZonePctg": 0.402971,
      "defensiveZoneRank": 11,
-     "defensiveZoneLeagueAvg": 0.4151951
+     "defensiveZoneLeagueAvg": 0.4136398
     },
     "pp": {
      "offensiveZonePctg": 0.5445528,
      "offensiveZoneRank": 31,
-     "offensiveZoneLeagueAvg": 0.6308414,
+     "offensiveZoneLeagueAvg": 0.5093757,
      "neutralZonePctg": 0.157119,
      "neutralZoneRank": 5,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.2983283,
      "defensiveZoneRank": 32,
-     "defensiveZoneLeagueAvg": 0.2525201
+     "defensiveZoneLeagueAvg": 0.3103744
     },
     "pk": {
      "offensiveZonePctg": 0.2346485,
      "offensiveZoneRank": 30,
-     "offensiveZoneLeagueAvg": 0.2525201,
+     "offensiveZoneLeagueAvg": 0.3103744,
      "neutralZonePctg": 0.1328109,
      "neutralZoneRank": 28,
-     "neutralZoneLeagueAvg": 0.1166385,
+     "neutralZoneLeagueAvg": 0.1802498,
      "defensiveZonePctg": 0.6325406,
      "defensiveZoneRank": 28,
-     "defensiveZoneLeagueAvg": 0.6308414
+     "defensiveZoneLeagueAvg": 0.5093757
     }
    },
    "tracking": {
@@ -9934,7 +9934,7 @@
     "burstsOver20": {
      "value": 379,
      "rank": 32,
-     "leagueAvg": 543
+     "leagueAvg": 545
     },
     "burstsOver22": {
      "value": 15,
@@ -9949,7 +9949,7 @@
     "total": {
      "value": 1510.9328,
      "rank": 32,
-     "leagueAvg": 1756.7922
+     "leagueAvg": 1761.4809
     }
    },
    "shotDifferential": {
