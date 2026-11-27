@@ -1,7 +1,7 @@
 {
  "season": "20262027",
  "gameType": 2,
- "collectedUTC": "2026-11-26T13:42:34+00:00",
+ "collectedUTC": "2026-11-27T13:39:20+00:00",
  "teams": {
   "ANA": {
    "id": 24,
@@ -4315,7 +4315,7 @@
    "shotDifferential": {
     "shotAttemptDifferential": 1.37037,
     "shotAttemptDifferentialRank": 11,
-    "sogDifferential": 3.0,
+    "sogDifferential": 2.962963,
     "sogDifferentialRank": 8
    },
    "last10": [
@@ -8704,7 +8704,7 @@
    "shotDifferential": {
     "shotAttemptDifferential": 8.269231,
     "shotAttemptDifferentialRank": 5,
-    "sogDifferential": 3.846154,
+    "sogDifferential": 3.884615,
     "sogDifferentialRank": 3
    },
    "last10": [
@@ -9332,7 +9332,7 @@
     "shotAttemptDifferential": 1.884615,
     "shotAttemptDifferentialRank": 10,
     "sogDifferential": 3.846154,
-    "sogDifferentialRank": 3
+    "sogDifferentialRank": 4
    },
    "last10": [
     {
